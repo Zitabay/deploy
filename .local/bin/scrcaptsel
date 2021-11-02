@@ -1,0 +1,8 @@
+#!/bin/sh
+
+pth="/home/haikalzzein/Documents/Screenshot/"
+
+nmpth="$(ls "$pth" | dmenu -i -p "File name")" || exit 1
+
+sel=$(slop -f "-i %i -g %g")
+shotgun $sel "$pth""$nmpth".png && exit 0

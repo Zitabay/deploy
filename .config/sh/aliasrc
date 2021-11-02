@@ -1,0 +1,11 @@
+# Use neovim for vim if present.
+[ -x "$(command -v nvim)" ] && alias vim="nvim" vimdiff="nvim -d"
+
+# Use $XINITRC variable if file exists.
+[ -f "$XINITRC" ] && alias startx="startx $XINITRC"
+
+alias ytdlv="youtube-dl -i -f mp4 --embed-thumbnail"
+alias ytdlm="youtube-dl -x --audio-format mp3 --embed-thumbnail --add-metadata"
+alias rm="rm -Irfv"
+alias mv="mv -fv"
+alias connect="nmcli device wifi connect"

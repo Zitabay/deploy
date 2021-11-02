@@ -1,0 +1,35 @@
+sw_volume: 98
+audio_device_state:1:default
+audio_device_state:1:my_fifo
+state: stop
+current: 12
+random: 0
+repeat: 1
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:ハルカ.mp3
+1:優しい彗星.mp3
+2:夜に駆ける.mp3
+3:群青.mp3
+4:美波「ライラック」.mp3
+5:ツユ - 終点の先が在るとするならば。.mp3
+6:ツユ - 忠犬ハチ.mp3
+7:ツユ - デモーニッシュ.mp3
+8:ツユ - アサガオの散る頃に.mp3
+9:ウォルピスカーター『泥中に咲く』.mp3
+10:ウォルピスカーター『1％』.mp3
+11:ツユ - 泥の分際で私だけの大切を奪おうだなんて.mp3
+12:ツユ - 過去に囚われている.mp3
+13:ツユ - 風薫る空の下.mp3
+14:神山羊 - YELLOW【Music Video】_ Yoh Kamiyama - YELLOW-1_lap6dzSUc.mp3
+15:[Elysia] Honkai Impact 3rd 5.1 Trailer PV BGM OST EXTENDED-JaoAPMBexS0.flac
+16:魔性のカマトト あんず編「痣」.mp3
+17:ツユ - あの世行きのバスに乗ってさらば。.mp3
+18:ツユ - 太陽になれるかな.mp3
+19:「アンコール」.mp3
+20:たぶん.mp3
+playlist_end

@@ -1,0 +1,11 @@
+#!/bin/sh
+
+chwallp() {
+	sleep 0.1
+	choice="$(echo "$wallpp" | dmenu -i -fn monospace-10 -nb "#282828" -nf "#f4e0e4" -sb "#a73b4f" -sf "#f4e0e4" -p "Change Wallpaper")" || exit 1
+	feh --no-fehbg --bg-scale "$HOME/Wallpaper/""$choice" || exit 0
+}
+
+wallpp="$(ls $HOME/Wallpaper | cat 2>/dev/null)"
+
+chwallp

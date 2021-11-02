@@ -1,0 +1,16 @@
+#!/bin/sh
+
+pickwall() { \
+	choice="$(find $HOME/Wallpaper -iregex '.*.\(jpg\|png\|webp\)' | shuf -n 1)"
+	feh --no-fehbg --bg-scale "$choice"
+}
+
+tpath="$XDG_DATA_HOME/wall"
+
+while true
+do
+
+	pickwall
+	sleep 300
+
+done

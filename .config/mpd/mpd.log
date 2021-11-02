@@ -1,0 +1,1083 @@
+Sep 18 15:16 : update: added /美波「ライラック」MV-GQ3V50XoLOM.mp3
+Sep 18 15:17 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Sep 18 15:36 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Sep 18 15:42 : exception: Failed to read mixer for 'My ALSA Device': no such mixer control: PCM
+Sep 18 16:25 : exception: Failed to read mixer for 'Alsa': no such mixer control: PCM
+Sep 18 16:32 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Sep 18 16:37 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Sep 18 16:40 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Sep 18 16:40 : player: played "美波「ライラック」MV-GQ3V50XoLOM.mp3"
+Sep 18 16:42 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Sep 18 16:42 : player: played "美波「ライラック」MV-GQ3V50XoLOM.mp3"
+Sep 18 16:42 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Sep 18 16:47 : player: played "美波「ライラック」MV-GQ3V50XoLOM.mp3"
+Sep 18 16:48 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Sep 18 16:48 : player: played "美波「ライラック」MV-GQ3V50XoLOM.mp3"
+Sep 18 16:48 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Sep 18 16:53 : player: played "美波「ライラック」MV-GQ3V50XoLOM.mp3"
+Sep 18 16:56 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Sep 18 17:01 : player: played "美波「ライラック」MV-GQ3V50XoLOM.mp3"
+Sep 18 17:01 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Sep 18 17:06 : player: played "美波「ライラック」MV-GQ3V50XoLOM.mp3"
+Sep 18 17:10 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Sep 18 17:19 : player: played "美波「ライラック」MV-GQ3V50XoLOM.mp3"
+Sep 18 17:22 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Sep 18 17:27 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Sep 18 17:27 : player: played "美波「ライラック」MV-GQ3V50XoLOM.mp3"
+Sep 18 17:28 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Sep 18 17:32 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Sep 18 18:11 : update: added /ウォルピスカーター MV 『泥中に咲く』-40dJS_LC6S8.mp3
+Sep 18 18:11 : update: added /ウォルピスカーター MV 『泥中に咲く』-40dJS_LC6S8.webm
+Sep 18 18:11 : update: removing ウォルピスカーター MV 『泥中に咲く』-40dJS_LC6S8.webm
+Sep 18 18:11 : update: updating /ウォルピスカーター MV 『泥中に咲く』-40dJS_LC6S8.mp3
+Sep 18 18:31 : update: added /Kikuo - 愛して愛して愛して-NTrm_idbhUk.mp3
+Sep 18 18:31 : update: added /Kikuo - 愛して愛して愛して-NTrm_idbhUk.webm
+Sep 18 18:31 : update: removing Kikuo - 愛して愛して愛して-NTrm_idbhUk.webm
+Sep 18 18:31 : update: updating /Kikuo - 愛して愛して愛して-NTrm_idbhUk.mp3
+Sep 18 18:31 : player: played "美波「ライラック」MV-GQ3V50XoLOM.mp3"
+Sep 18 22:39 : exception: Failed to read mixer for 'Alsa': no such mixer control: PCM
+Sep 18 22:39 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Sep 18 22:45 : player: played "美波「ライラック」MV-GQ3V50XoLOM.mp3"
+Sep 18 22:49 : player: played "Kikuo - 愛して愛して愛して-NTrm_idbhUk.mp3"
+Sep 18 22:54 : player: played "ウォルピスカーター MV 『泥中に咲く』-40dJS_LC6S8.mp3"
+Sep 19 01:28 : player: played "美波「ライラック」MV-GQ3V50XoLOM.mp3"
+Sep 19 17:08 : exception: Failed to read mixer for 'Alsa': no such mixer control: PCM
+Sep 19 17:11 : update: added /遊生夢死 - Eve MV-roh_p2l8DHo.m4a
+Sep 19 17:11 : update: added /遊生夢死 - Eve MV-roh_p2l8DHo.mp3
+Sep 19 17:11 : update: removing 遊生夢死 - Eve MV-roh_p2l8DHo.m4a
+Sep 19 17:11 : update: updating /遊生夢死 - Eve MV-roh_p2l8DHo.mp3
+Sep 19 17:14 : player: played "美波「ライラック」MV-GQ3V50XoLOM.mp3"
+Sep 19 17:15 : update: added /【Touhou】 -Bad Apple!!- (Orchestral Arrangement) feat. Un3h-VBtTL_IsZ5k.m4a
+Sep 19 17:15 : update: added /【Touhou】 -Bad Apple!!- (Orchestral Arrangement) feat. Un3h-VBtTL_IsZ5k.mp3
+Sep 19 17:15 : update: removing 【Touhou】 -Bad Apple!!- (Orchestral Arrangement) feat. Un3h-VBtTL_IsZ5k.m4a
+Sep 19 17:15 : update: updating /【Touhou】 -Bad Apple!!- (Orchestral Arrangement) feat. Un3h-VBtTL_IsZ5k.mp3
+Sep 19 17:18 : exception: Failed to access /home/haikalzzein/Music/.config: No such file or directory
+Sep 19 17:18 : exception: No such directory
+Sep 19 17:18 : exception: No such directory
+Sep 19 17:18 : exception: No such directory
+Sep 19 17:18 : exception: No such directory
+Sep 19 17:20 : update: added /Re -Zero ED _ Ending 2 Full『Emilia (Rie Takahashi) - Stay Alive』【ENG Sub】-z-NuxWkYtlI.mp3
+Sep 19 17:20 : update: added /Re -Zero ED _ Ending 2 Full『Emilia (Rie Takahashi) - Stay Alive』【ENG Sub】-z-NuxWkYtlI.webm
+Sep 19 17:21 : update: removing Re -Zero ED _ Ending 2 Full『Emilia (Rie Takahashi) - Stay Alive』【ENG Sub】-z-NuxWkYtlI.webm
+Sep 19 17:21 : update: updating /Re -Zero ED _ Ending 2 Full『Emilia (Rie Takahashi) - Stay Alive』【ENG Sub】-z-NuxWkYtlI.mp3
+Sep 19 17:23 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Sep 19 17:28 : player: played "美波「ライラック」MV-GQ3V50XoLOM.mp3"
+Sep 19 17:33 : player: played "ウォルピスカーター MV 『泥中に咲く』-40dJS_LC6S8.mp3"
+Sep 19 17:33 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Sep 19 17:37 : player: played "遊生夢死 - Eve MV-roh_p2l8DHo.mp3"
+Sep 19 17:43 : player: played "【Touhou】 -Bad Apple!!- (Orchestral Arrangement) feat. Un3h-VBtTL_IsZ5k.mp3"
+Sep 19 17:43 : exception: Failed to drain "Alsa" (alsa): snd_pcm_writei() failed: Broken pipe
+Sep 19 17:43 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Sep 19 17:47 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Sep 19 17:47 : player: played "Re -Zero ED _ Ending 2 Full『Emilia (Rie Takahashi) - Stay Alive』【ENG Sub】-z-NuxWkYtlI.mp3"
+Sep 19 17:48 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Sep 19 17:53 : player: played "美波「ライラック」MV-GQ3V50XoLOM.mp3"
+Sep 19 17:57 : player: played "Kikuo - 愛して愛して愛して-NTrm_idbhUk.mp3"
+Sep 19 18:02 : player: played "ウォルピスカーター MV 『泥中に咲く』-40dJS_LC6S8.mp3"
+Sep 19 18:02 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Sep 19 18:29 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Sep 19 18:33 : player: played "Re -Zero ED _ Ending 2 Full『Emilia (Rie Takahashi) - Stay Alive』【ENG Sub】-z-NuxWkYtlI.mp3"
+Sep 19 18:34 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Sep 19 18:44 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Sep 19 18:49 : player: played "【Touhou】 -Bad Apple!!- (Orchestral Arrangement) feat. Un3h-VBtTL_IsZ5k.mp3"
+Sep 19 18:49 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Sep 19 18:54 : player: played "Re -Zero ED _ Ending 2 Full『Emilia (Rie Takahashi) - Stay Alive』【ENG Sub】-z-NuxWkYtlI.mp3"
+Sep 19 19:09 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Sep 19 19:14 : player: played "美波「ライラック」MV-GQ3V50XoLOM.mp3"
+Sep 19 19:14 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Sep 19 19:18 : player: played "遊生夢死 - Eve MV-roh_p2l8DHo.mp3"
+Sep 19 19:24 : player: played "【Touhou】 -Bad Apple!!- (Orchestral Arrangement) feat. Un3h-VBtTL_IsZ5k.mp3"
+Sep 19 19:24 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Sep 19 19:29 : player: played "Re -Zero ED _ Ending 2 Full『Emilia (Rie Takahashi) - Stay Alive』【ENG Sub】-z-NuxWkYtlI.mp3"
+Sep 20 16:36 : exception: Failed to read mixer for 'Alsa': no such mixer control: PCM
+Sep 20 16:37 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Sep 20 16:42 : player: played "美波「ライラック」MV-GQ3V50XoLOM.mp3"
+Sep 20 16:46 : player: played "Kikuo - 愛して愛して愛して-NTrm_idbhUk.mp3"
+Sep 20 16:51 : player: played "ウォルピスカーター MV 『泥中に咲く』-40dJS_LC6S8.mp3"
+Sep 20 16:51 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Sep 20 17:01 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Sep 20 17:05 : player: played "Re -Zero ED _ Ending 2 Full『Emilia (Rie Takahashi) - Stay Alive』【ENG Sub】-z-NuxWkYtlI.mp3"
+Sep 20 17:06 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Sep 20 17:16 : player: played "【Touhou】 -Bad Apple!!- (Orchestral Arrangement) feat. Un3h-VBtTL_IsZ5k.mp3"
+Sep 20 17:16 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Sep 20 17:26 : player: played "ウォルピスカーター MV 『泥中に咲く』-40dJS_LC6S8.mp3"
+Sep 20 17:26 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Sep 20 17:30 : player: played "遊生夢死 - Eve MV-roh_p2l8DHo.mp3"
+Sep 20 17:36 : player: played "【Touhou】 -Bad Apple!!- (Orchestral Arrangement) feat. Un3h-VBtTL_IsZ5k.mp3"
+Sep 20 17:36 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Sep 20 17:40 : player: played "Re -Zero ED _ Ending 2 Full『Emilia (Rie Takahashi) - Stay Alive』【ENG Sub】-z-NuxWkYtlI.mp3"
+Sep 20 17:43 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Sep 20 17:53 : player: played "ウォルピスカーター MV 『泥中に咲く』-40dJS_LC6S8.mp3"
+Sep 20 17:53 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Sep 20 17:57 : player: played "遊生夢死 - Eve MV-roh_p2l8DHo.mp3"
+Sep 20 18:03 : player: played "【Touhou】 -Bad Apple!!- (Orchestral Arrangement) feat. Un3h-VBtTL_IsZ5k.mp3"
+Sep 20 18:03 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Sep 20 18:07 : player: played "Re -Zero ED _ Ending 2 Full『Emilia (Rie Takahashi) - Stay Alive』【ENG Sub】-z-NuxWkYtlI.mp3"
+Sep 20 18:51 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Sep 20 19:49 : player: played "遊生夢死 - Eve MV-roh_p2l8DHo.mp3"
+Sep 23 17:22 : exception: Failed to read mixer for 'Alsa': no such mixer control: PCM
+Sep 23 18:17 : player: played "遊生夢死 - Eve MV-roh_p2l8DHo.mp3"
+Sep 24 16:27 : exception: Failed to read mixer for 'Alsa': no such mixer control: PCM
+Sep 24 16:31 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Sep 24 16:36 : player: played "美波「ライラック」MV-GQ3V50XoLOM.mp3"
+Sep 24 16:41 : player: played "ウォルピスカーター MV 『泥中に咲く』-40dJS_LC6S8.mp3"
+Sep 24 16:41 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Sep 24 16:45 : player: played "遊生夢死 - Eve MV-roh_p2l8DHo.mp3"
+Sep 24 16:51 : player: played "【Touhou】 -Bad Apple!!- (Orchestral Arrangement) feat. Un3h-VBtTL_IsZ5k.mp3"
+Sep 24 16:51 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Sep 24 16:55 : player: played "Re -Zero ED _ Ending 2 Full『Emilia (Rie Takahashi) - Stay Alive』【ENG Sub】-z-NuxWkYtlI.mp3"
+Sep 24 18:33 : exception: Failed to read mixer for 'Alsa': no such mixer control: PCM
+Sep 26 01:23 : exception: Failed to read mixer for 'Alsa': no such mixer control: PCM
+Sep 26 01:26 : exception: Failed to read mixer for 'Alsa': no such mixer control: PCM
+Sep 26 14:58 : exception: Failed to read mixer for 'Alsa': no such mixer control: PCM
+Sep 29 00:38 : exception: Failed to read mixer for 'Alsa': no such mixer control: PCM
+Sep 29 00:38 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Sep 29 00:43 : player: played "ウォルピスカーター MV 『泥中に咲く』-40dJS_LC6S8.mp3"
+Sep 29 00:43 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Sep 29 00:43 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Sep 29 00:47 : player: played "ウォルピスカーター MV 『泥中に咲く』-40dJS_LC6S8.mp3"
+Sep 29 00:47 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Sep 29 00:48 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Sep 29 01:31 : player: played "ウォルピスカーター MV 『泥中に咲く』-40dJS_LC6S8.mp3"
+Sep 29 15:17 : player: played "ウォルピスカーター MV 『泥中に咲く』-40dJS_LC6S8.mp3"
+Sep 29 18:58 : exception: Failed to read mixer for 'Alsa': no such mixer control: PCM
+Sep 29 23:50 : player: played "ウォルピスカーター MV 『泥中に咲く』-40dJS_LC6S8.mp3"
+Sep 30 05:39 : player: played "ウォルピスカーター MV 『泥中に咲く』-40dJS_LC6S8.mp3"
+Sep 30 17:37 : player: played "ウォルピスカーター MV 『泥中に咲く』-40dJS_LC6S8.mp3"
+Oct 01 00:37 : player: played "ウォルピスカーター MV 『泥中に咲く』-40dJS_LC6S8.mp3"
+Sep 30 20:02 : exception: Failed to read mixer for 'Alsa': no such mixer control: PCM
+Sep 30 20:20 : player: played "ウォルピスカーター MV 『泥中に咲く』-40dJS_LC6S8.mp3"
+Oct 01 06:31 : player: played "ウォルピスカーター MV 『泥中に咲く』-40dJS_LC6S8.mp3"
+Oct 01 09:15 : exception: Failed to read mixer for 'Alsa': no such mixer control: PCM
+Oct 01 09:15 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Oct 01 09:20 : player: played "ウォルピスカーター MV 『泥中に咲く』-40dJS_LC6S8.mp3"
+Oct 01 09:20 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Oct 01 09:24 : player: played "遊生夢死 - Eve MV-roh_p2l8DHo.mp3"
+Oct 01 09:29 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Oct 01 09:36 : player: played "美波「ライラック」MV-GQ3V50XoLOM.mp3"
+Oct 01 09:41 : player: played "ウォルピスカーター MV 『泥中に咲く』-40dJS_LC6S8.mp3"
+Oct 01 09:41 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Oct 01 09:45 : player: played "遊生夢死 - Eve MV-roh_p2l8DHo.mp3"
+Oct 01 09:51 : player: played "【Touhou】 -Bad Apple!!- (Orchestral Arrangement) feat. Un3h-VBtTL_IsZ5k.mp3"
+Oct 01 09:51 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Oct 01 09:55 : player: played "Re -Zero ED _ Ending 2 Full『Emilia (Rie Takahashi) - Stay Alive』【ENG Sub】-z-NuxWkYtlI.mp3"
+Oct 01 09:56 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Oct 01 10:01 : player: played "美波「ライラック」MV-GQ3V50XoLOM.mp3"
+Oct 01 10:06 : player: played "ウォルピスカーター MV 『泥中に咲く』-40dJS_LC6S8.mp3"
+Oct 01 10:06 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Oct 01 10:10 : player: played "遊生夢死 - Eve MV-roh_p2l8DHo.mp3"
+Oct 01 10:16 : player: played "【Touhou】 -Bad Apple!!- (Orchestral Arrangement) feat. Un3h-VBtTL_IsZ5k.mp3"
+Oct 01 10:16 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Oct 01 10:21 : player: played "Re -Zero ED _ Ending 2 Full『Emilia (Rie Takahashi) - Stay Alive』【ENG Sub】-z-NuxWkYtlI.mp3"
+Oct 01 11:20 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Oct 01 11:20 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Oct 01 11:21 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Oct 01 11:22 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Oct 01 11:22 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Oct 01 11:22 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Oct 01 11:24 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Oct 01 11:26 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Oct 01 11:26 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Oct 01 11:32 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Oct 01 11:32 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Oct 01 11:32 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Oct 01 11:38 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Oct 01 11:38 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Oct 01 11:38 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Oct 01 11:38 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Oct 01 11:38 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Oct 01 11:40 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Oct 01 11:40 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Oct 01 11:47 : update: removing ウォルピスカーター MV 『泥中に咲く』-40dJS_LC6S8.mp3
+Oct 01 11:50 : update: added /ウォルピスカーター MV 『泥中に咲く』-40dJS_LC6S8.mp3
+Oct 01 11:50 : update: added /ウォルピスカーター MV 『泥中に咲く』-40dJS_LC6S8.webm
+Oct 01 11:50 : update: removing ウォルピスカーター MV 『泥中に咲く』-40dJS_LC6S8.webm
+Oct 01 11:50 : update: updating /ウォルピスカーター MV 『泥中に咲く』-40dJS_LC6S8.mp3
+Oct 01 12:24 : exception: No such playlist
+Oct 01 12:26 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Oct 01 12:29 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Oct 01 15:24 : player: played "ウォルピスカーター MV 『泥中に咲く』-40dJS_LC6S8.mp3"
+Oct 01 19:38 : player: played "ウォルピスカーター MV 『泥中に咲く』-40dJS_LC6S8.mp3"
+Oct 02 02:13 : player: played "ウォルピスカーター MV 『泥中に咲く』-40dJS_LC6S8.mp3"
+Oct 02 04:40 : player: played "ウォルピスカーター MV 『泥中に咲く』-40dJS_LC6S8.mp3"
+Oct 02 12:48 : player: played "ウォルピスカーター MV 『泥中に咲く』-40dJS_LC6S8.mp3"
+Oct 02 20:09 : player: played "ウォルピスカーター MV 『泥中に咲く』-40dJS_LC6S8.mp3"
+Oct 03 08:00 : exception: Failed to read mixer for 'Alsa': no such mixer control: PCM
+Oct 03 08:57 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Oct 03 08:57 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Oct 03 08:57 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Oct 03 12:59 : player: played "ウォルピスカーター MV 『泥中に咲く』-40dJS_LC6S8.mp3"
+Oct 03 13:01 : exception: Failed to read mixer for 'Alsa': no such mixer control: PCM
+Oct 04 04:07 : exception: Failed to read mixer for 'Alsa': no such mixer control: PCM
+Oct 04 04:09 : update: removing 【Touhou】 -Bad Apple!!- (Orchestral Arrangement) feat. Un3h-VBtTL_IsZ5k.mp3
+Oct 04 04:09 : update: removing Re -Zero ED _ Ending 2 Full『Emilia (Rie Takahashi) - Stay Alive』【ENG Sub】-z-NuxWkYtlI.mp3
+Oct 04 04:09 : update: removing Kikuo - 愛して愛して愛して-NTrm_idbhUk.mp3
+Oct 04 04:09 : update: removing 遊生夢死 - Eve MV-roh_p2l8DHo.mp3
+Oct 04 04:09 : update: removing 美波「ライラック」MV-GQ3V50XoLOM.mp3
+Oct 04 04:09 : update: removing ウォルピスカーター MV 『泥中に咲く』-40dJS_LC6S8.mp3
+Oct 04 04:31 : update: added /ツユ - デモーニッシュ MV-Wx08V5jPEwg.mp3
+Oct 04 04:31 : update: added /ツユ - デモーニッシュ MV-Wx08V5jPEwg.m4a
+Oct 04 04:32 : update: removing ツユ - デモーニッシュ MV-Wx08V5jPEwg.m4a
+Oct 04 04:32 : update: updating /ツユ - デモーニッシュ MV-Wx08V5jPEwg.mp3
+Oct 04 04:32 : update: added /ツユ - 忠犬ハチ MV-G5HKY-vM_6g.webm
+Oct 04 04:32 : update: added /ツユ - 忠犬ハチ MV-G5HKY-vM_6g.mp3
+Oct 04 04:33 : update: removing ツユ - 忠犬ハチ MV-G5HKY-vM_6g.webm
+Oct 04 04:33 : update: updating /ツユ - 忠犬ハチ MV-G5HKY-vM_6g.mp3
+Oct 04 04:34 : update: added /ウォルピスカーター MV 『泥中に咲く』-40dJS_LC6S8.mp3
+Oct 04 04:34 : update: added /ウォルピスカーター MV 『泥中に咲く』-40dJS_LC6S8.webm
+Oct 04 04:35 : update: removing ウォルピスカーター MV 『泥中に咲く』-40dJS_LC6S8.webm
+Oct 04 04:35 : update: updating /ウォルピスカーター MV 『泥中に咲く』-40dJS_LC6S8.mp3
+Oct 04 04:35 : update: added /ツユ - アサガオの散る頃に MV-VP7FM1yyMpU.webm
+Oct 04 04:35 : update: added /ツユ - アサガオの散る頃に MV-VP7FM1yyMpU.mp3
+Oct 04 04:35 : update: removing ツユ - アサガオの散る頃に MV-VP7FM1yyMpU.webm
+Oct 04 04:35 : update: updating /ツユ - アサガオの散る頃に MV-VP7FM1yyMpU.mp3
+Oct 04 04:35 : update: added /ウォルピスカーター MV 『1％』-vvGq429iHjk.webm
+Oct 04 04:35 : update: added /ウォルピスカーター MV 『1％』-vvGq429iHjk.mp3
+Oct 04 04:36 : update: removing ウォルピスカーター MV 『1％』-vvGq429iHjk.webm
+Oct 04 04:36 : update: updating /ウォルピスカーター MV 『1％』-vvGq429iHjk.mp3
+Oct 04 04:36 : update: added /ウォルピスカーター MV 『1％』-vvGq429iHjk.webm
+Oct 04 04:36 : update: updating /ウォルピスカーター MV 『1％』-vvGq429iHjk.mp3
+Oct 04 04:36 : update: updating /ウォルピスカーター MV 『1％』-vvGq429iHjk.mp3
+Oct 04 04:36 : update: removing ウォルピスカーター MV 『1％』-vvGq429iHjk.webm
+Oct 04 04:37 : update: added /夜に駆ける-by4SYYWlhEs.mp3
+Oct 04 04:37 : update: added /夜に駆ける-by4SYYWlhEs.webm
+Oct 04 04:37 : update: removing 夜に駆ける-by4SYYWlhEs.webm
+Oct 04 04:37 : update: updating /夜に駆ける-by4SYYWlhEs.mp3
+Oct 04 04:37 : update: added /群青-h1Ebp1_f6Q0.mp3
+Oct 04 04:37 : update: added /群青-h1Ebp1_f6Q0.webm
+Oct 04 04:38 : update: removing 群青-h1Ebp1_f6Q0.webm
+Oct 04 04:38 : update: updating /群青-h1Ebp1_f6Q0.mp3
+Oct 04 04:39 : update: added /美波「ライラック」MV-GQ3V50XoLOM.mp3
+Oct 04 04:39 : update: added /美波「ライラック」MV-GQ3V50XoLOM.webm
+Oct 04 04:39 : update: removing 美波「ライラック」MV-GQ3V50XoLOM.webm
+Oct 04 04:39 : update: updating /美波「ライラック」MV-GQ3V50XoLOM.mp3
+Oct 04 04:40 : update: added /ハルカ-NDJeKkyNjXc.webm
+Oct 04 04:40 : update: added /ハルカ-NDJeKkyNjXc.mp3
+Oct 04 04:40 : update: removing ハルカ-NDJeKkyNjXc.webm
+Oct 04 04:40 : update: updating /ハルカ-NDJeKkyNjXc.mp3
+Oct 04 04:42 : update: added /優しい彗星-iykAM_McguQ.mp3
+Oct 04 04:42 : update: added /優しい彗星-iykAM_McguQ.webm
+Oct 04 04:42 : update: removing 優しい彗星-iykAM_McguQ.webm
+Oct 04 04:42 : update: updating /優しい彗星-iykAM_McguQ.mp3
+Oct 04 04:46 : update: removing ウォルピスカーター MV 『1％』-vvGq429iHjk.mp3
+Oct 04 04:46 : update: added /ウォルピスカーター MV 『1％』.mp3
+Oct 04 04:47 : update: removing ウォルピスカーター MV 『泥中に咲く』-40dJS_LC6S8.mp3
+Oct 04 04:47 : update: removing ツユ - アサガオの散る頃に MV-VP7FM1yyMpU.mp3
+Oct 04 04:47 : update: removing ツユ - デモーニッシュ MV-Wx08V5jPEwg.mp3
+Oct 04 04:47 : update: removing ツユ - 忠犬ハチ MV-G5HKY-vM_6g.mp3
+Oct 04 04:47 : update: removing ハルカ-NDJeKkyNjXc.mp3
+Oct 04 04:47 : update: removing 優しい彗星-iykAM_McguQ.mp3
+Oct 04 04:47 : update: removing 夜に駆ける-by4SYYWlhEs.mp3
+Oct 04 04:47 : update: added /夜に駆ける.mp3
+Oct 04 04:47 : update: added /ハルカ.mp3
+Oct 04 04:47 : update: added /優しい彗星.mp3
+Oct 04 04:47 : update: added /ツユ - アサガオの散る頃に MV.mp3
+Oct 04 04:47 : update: added /ツユ - 忠犬ハチ MV.mp3
+Oct 04 04:47 : update: added /ウォルピスカーター MV 『泥中に咲く』.mp3
+Oct 04 04:47 : update: added /ツユ - デモーニッシュ MV.mp3
+Oct 04 04:47 : update: removing 美波「ライラック」MV-GQ3V50XoLOM.mp3
+Oct 04 04:47 : update: removing 群青-h1Ebp1_f6Q0.mp3
+Oct 04 04:47 : update: added /美波「ライラック」MV.mp3
+Oct 04 04:47 : update: added /群青.mp3
+Oct 04 04:48 : exception: No such directory
+Oct 04 04:49 : player: played "ウォルピスカーター MV 『泥中に咲く』-40dJS_LC6S8.mp3"
+Oct 04 05:01 : update: added YOASOBI/夜に駆ける/00 夜に駆ける.mp3
+Oct 04 05:01 : update: updating YOASOBI/夜に駆ける/00 夜に駆ける.mp3
+Oct 04 05:04 : update: updating YOASOBI/夜に駆ける/00 夜に駆ける.mp3
+Oct 04 05:06 : update: updating YOASOBI/夜に駆ける/00 夜に駆ける.mp3
+Oct 04 05:26 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Oct 04 05:26 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Oct 04 05:27 : update: updating /美波「ライラック」MV.mp3
+Oct 04 05:27 : update: updating /夜に駆ける.mp3
+Oct 04 05:27 : update: updating /群青.mp3
+Oct 04 05:27 : update: updating /ウォルピスカーター MV 『1％』.mp3
+Oct 04 05:27 : update: updating /ハルカ.mp3
+Oct 04 05:27 : update: updating /優しい彗星.mp3
+Oct 04 05:27 : update: updating /ツユ - アサガオの散る頃に MV.mp3
+Oct 04 05:27 : update: updating /ツユ - 忠犬ハチ MV.mp3
+Oct 04 05:27 : update: updating /ウォルピスカーター MV 『泥中に咲く』.mp3
+Oct 04 05:27 : update: updating /ツユ - デモーニッシュ MV.mp3
+Oct 04 05:28 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Oct 04 05:30 : update: updating /美波「ライラック」MV.mp3
+Oct 04 05:30 : update: updating /夜に駆ける.mp3
+Oct 04 05:30 : update: updating /群青.mp3
+Oct 04 05:30 : update: updating /ウォルピスカーター MV 『1％』.mp3
+Oct 04 05:30 : update: updating /ハルカ.mp3
+Oct 04 05:30 : update: updating /優しい彗星.mp3
+Oct 04 05:30 : update: updating /ツユ - アサガオの散る頃に MV.mp3
+Oct 04 05:30 : update: updating /ツユ - 忠犬ハチ MV.mp3
+Oct 04 05:30 : update: updating /ウォルピスカーター MV 『泥中に咲く』.mp3
+Oct 04 05:30 : update: updating /ツユ - デモーニッシュ MV.mp3
+Oct 04 05:31 : player: played "ウォルピスカーター MV 『泥中に咲く』.mp3"
+Oct 04 05:34 : update: updating /美波「ライラック」MV.mp3
+Oct 04 05:34 : update: updating /夜に駆ける.mp3
+Oct 04 05:34 : update: updating /群青.mp3
+Oct 04 05:34 : update: updating /ウォルピスカーター MV 『1％』.mp3
+Oct 04 05:34 : update: updating /ハルカ.mp3
+Oct 04 05:34 : update: updating /優しい彗星.mp3
+Oct 04 05:34 : update: updating /ツユ - アサガオの散る頃に MV.mp3
+Oct 04 05:34 : update: updating /ツユ - 忠犬ハチ MV.mp3
+Oct 04 05:34 : update: updating /ウォルピスカーター MV 『泥中に咲く』.mp3
+Oct 04 05:34 : update: updating /ツユ - デモーニッシュ MV.mp3
+Oct 04 05:34 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Oct 04 05:34 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Oct 04 05:34 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Oct 04 05:34 : exception: Failed to open mixer for 'Alsa': no such mixer control: PCM
+Oct 04 05:44 : player: played "ウォルピスカーター MV 『1％』.mp3"
+Oct 04 09:11 : exception: Failed to read mixer for 'Alsa': no such mixer control: PCM
+Oct 04 11:54 : exception: Failed to read mixer for 'Alsa': no such mixer control: PCM
+Oct 04 13:37 : player: played "ウォルピスカーター MV 『1％』.mp3"
+Oct 04 13:40 : exception: Failed to read mixer for 'Alsa': no such mixer control: PCM
+Oct 04 13:45 : player: played "ウォルピスカーター MV 『1％』.mp3"
+Oct 04 13:47 : exception: Failed to read mixer for 'Alsa': no such mixer control: PCM
+Oct 04 13:51 : player: played "ウォルピスカーター MV 『1％』.mp3"
+Oct 04 13:53 : exception: Failed to read mixer for 'Alsa': no such mixer control: PCM
+Oct 04 14:06 : player: played "ウォルピスカーター MV 『1％』.mp3"
+Oct 04 14:07 : exception: Failed to read mixer for 'Alsa': no such mixer control: PCM
+Oct 04 14:26 : player: played "ウォルピスカーター MV 『1％』.mp3"
+Oct 04 14:58 : exception: Failed to read mixer for 'Alsa': no such mixer control: PCM
+Oct 04 15:09 : player: played "ウォルピスカーター MV 『1％』.mp3"
+Oct 04 18:09 : player: played "夜に駆ける.mp3"
+Oct 04 18:09 : exception: Not playing
+Oct 04 18:09 : exception: Not playing
+Oct 04 18:09 : exception: Not playing
+Oct 04 18:09 : exception: Not playing
+Oct 04 18:26 : player: played "夜に駆ける.mp3"
+Oct 04 18:26 : exception: Not playing
+Oct 04 18:27 : exception: Not playing
+Oct 04 18:27 : player: played "ウォルピスカーター MV 『1％』.mp3"
+Oct 04 18:28 : player: played "優しい彗星.mp3"
+Oct 04 18:28 : player: played "ウォルピスカーター MV 『泥中に咲く』.mp3"
+Oct 04 18:28 : player: played "群青.mp3"
+Oct 04 18:29 : player: played "夜に駆ける.mp3"
+Oct 06 05:56 : avahi: Client Disconnected, will reconnect shortly
+Oct 06 05:56 : avahi: Could not reconnect: Daemon not running
+Oct 06 06:26 : update: updating /ウォルピスカーター MV 『泥中に咲く』.mp3
+Oct 06 06:26 : update: updating /夜に駆ける.mp3
+Oct 06 06:26 : update: updating /ウォルピスカーター MV 『1％』.mp3
+Oct 06 06:26 : update: updating /ハルカ.mp3
+Oct 06 06:26 : update: updating /ツユ - 忠犬ハチ MV.mp3
+Oct 06 06:26 : update: updating /優しい彗星.mp3
+Oct 06 06:26 : update: updating /群青.mp3
+Oct 06 06:26 : update: updating /ツユ - アサガオの散る頃に MV.mp3
+Oct 06 06:26 : update: updating /美波「ライラック」MV.mp3
+Oct 06 06:26 : update: updating YOASOBI/夜に駆ける/00 夜に駆ける.mp3
+Oct 06 06:26 : update: updating /ツユ - デモーニッシュ MV.mp3
+Oct 06 06:27 : exception: No such directory
+Oct 06 07:28 : player: played "ウォルピスカーター MV 『泥中に咲く』.mp3"
+Oct 06 07:31 : player: played "ツユ - アサガオの散る頃に MV.mp3"
+Oct 06 07:34 : player: played "ツユ - デモーニッシュ MV.mp3"
+Oct 06 07:41 : player: played "ハルカ.mp3"
+Oct 06 07:44 : player: played "優しい彗星.mp3"
+Oct 06 07:49 : player: played "夜に駆ける.mp3"
+Oct 06 07:53 : player: played "群青.mp3"
+Oct 06 07:58 : player: played "ウォルピスカーター MV 『泥中に咲く』.mp3"
+Oct 06 08:02 : avahi: Client Disconnected, will reconnect shortly
+Oct 06 08:02 : avahi: Could not reconnect: Daemon not running
+Oct 06 12:45 : player: played "ツユ - アサガオの散る頃に MV.mp3"
+Oct 06 12:48 : player: played "ツユ - デモーニッシュ MV.mp3"
+Oct 06 12:51 : player: played "ツユ - 忠犬ハチ MV.mp3"
+Oct 06 12:55 : player: played "ハルカ.mp3"
+Oct 06 12:59 : player: played "群青.mp3"
+Oct 06 13:03 : player: played "ウォルピスカーター MV 『1％』.mp3"
+Oct 06 13:08 : player: played "ウォルピスカーター MV 『泥中に咲く』.mp3"
+Oct 06 13:12 : player: played "ツユ - アサガオの散る頃に MV.mp3"
+Oct 06 13:14 : player: played "ツユ - デモーニッシュ MV.mp3"
+Oct 06 13:17 : player: played "ツユ - 忠犬ハチ MV.mp3"
+Oct 06 13:21 : player: played "ハルカ.mp3"
+Oct 06 13:26 : player: played "群青.mp3"
+Oct 06 13:31 : player: played "ウォルピスカーター MV 『泥中に咲く』.mp3"
+Oct 06 13:36 : player: played "群青.mp3"
+Oct 06 13:39 : player: played "ツユ - アサガオの散る頃に MV.mp3"
+Oct 06 13:42 : player: played "ツユ - デモーニッシュ MV.mp3"
+Oct 06 13:45 : player: played "ツユ - 忠犬ハチ MV.mp3"
+Oct 06 13:48 : player: played "ウォルピスカーター MV 『1％』.mp3"
+Oct 06 13:52 : player: played "ハルカ.mp3"
+Oct 06 13:56 : player: played "ツユ - 忠犬ハチ MV.mp3"
+Oct 06 13:59 : player: played "ツユ - アサガオの散る頃に MV.mp3"
+Oct 06 14:04 : player: played "ハルカ.mp3"
+Oct 06 14:08 : player: played "ウォルピスカーター MV 『泥中に咲く』.mp3"
+Oct 06 14:12 : player: played "ウォルピスカーター MV 『1％』.mp3"
+Oct 06 14:16 : player: played "群青.mp3"
+Oct 06 15:50 : player: played "ウォルピスカーター MV 『1％』.mp3"
+Oct 06 15:53 : player: played "ツユ - デモーニッシュ MV.mp3"
+Oct 06 15:56 : player: played "ツユ - 忠犬ハチ MV.mp3"
+Oct 06 16:00 : player: played "群青.mp3"
+Oct 06 16:05 : player: played "ウォルピスカーター MV 『泥中に咲く』.mp3"
+Oct 06 16:08 : player: played "ツユ - アサガオの散る頃に MV.mp3"
+Oct 06 16:12 : player: played "ハルカ.mp3"
+Oct 06 16:16 : player: played "ウォルピスカーター MV 『1％』.mp3"
+Oct 06 16:21 : player: played "ウォルピスカーター MV 『泥中に咲く』.mp3"
+Oct 06 16:25 : player: played "群青.mp3"
+Oct 06 16:28 : player: played "ツユ - 忠犬ハチ MV.mp3"
+Oct 06 16:31 : player: played "ツユ - デモーニッシュ MV.mp3"
+Oct 06 16:34 : player: played "ツユ - アサガオの散る頃に MV.mp3"
+Oct 06 16:39 : player: played "ハルカ.mp3"
+Oct 06 16:44 : player: played "ウォルピスカーター MV 『泥中に咲く』.mp3"
+Oct 06 16:47 : player: played "ツユ - デモーニッシュ MV.mp3"
+Oct 06 16:51 : player: played "ウォルピスカーター MV 『1％』.mp3"
+Oct 06 16:55 : player: played "群青.mp3"
+Oct 06 16:58 : player: played "ツユ - アサガオの散る頃に MV.mp3"
+Oct 06 17:03 : player: played "夜に駆ける.mp3"
+Oct 06 17:07 : player: played "優しい彗星.mp3"
+Oct 06 22:45 : avahi: Client Disconnected, will reconnect shortly
+Oct 06 22:45 : avahi: Could not reconnect: Daemon not running
+Oct 07 01:35 : exception: Failed to open '/home/haikalzzein/.config/mpd/mpdstate': No such file or directory
+Oct 07 02:46 : player: played "夜に駆ける.mp3"
+Oct 07 02:46 : player: played "夜に駆ける.mp3"
+Oct 07 02:46 : exception: Not playing
+Oct 07 02:46 : exception: Not playing
+Oct 07 02:51 : player: played "夜に駆ける.mp3"
+Oct 07 02:54 : player: played "ツユ - 忠犬ハチ MV.mp3"
+Oct 07 02:57 : player: played "ツユ - アサガオの散る頃に MV.mp3"
+Oct 07 03:02 : player: played "群青.mp3"
+Oct 07 03:05 : player: played "ウォルピスカーター MV 『1％』.mp3"
+Oct 07 03:10 : player: played "夜に駆ける.mp3"
+Oct 07 03:14 : player: played "ハルカ.mp3"
+Oct 07 03:17 : player: played "優しい彗星.mp3"
+Oct 07 03:21 : player: played "ツユ - デモーニッシュ MV.mp3"
+Oct 07 03:28 : avahi: Client Disconnected, will reconnect shortly
+Oct 07 03:28 : avahi: Could not reconnect: Daemon not running
+Oct 07 03:28 : player: played "ウォルピスカーター MV 『泥中に咲く』.mp3"
+Oct 07 05:29 : player: played "夜に駆ける.mp3"
+Oct 07 05:29 : player: played "夜に駆ける.mp3"
+Oct 07 05:30 : player: played "夜に駆ける.mp3"
+Oct 07 05:32 : avahi: Client Disconnected, will reconnect shortly
+Oct 07 05:32 : avahi: Could not reconnect: Daemon not running
+Oct 07 05:37 : player: played "夜に駆ける.mp3"
+Oct 07 05:41 : exception: Failed to play on "pulse audio" (pulse): suspended
+Oct 07 05:45 : exception: Failed to play on "pulse audio" (pulse): suspended
+Oct 07 05:46 : exception: Failed to play on "pulse audio" (pulse): suspended
+Oct 07 05:46 : exception: Failed to play on "pulse audio" (pulse): suspended
+Oct 07 05:55 : player: played "夜に駆ける.mp3"
+Oct 07 05:59 : player: played "ハルカ.mp3"
+Oct 07 06:02 : player: played "ツユ - デモーニッシュ MV.mp3"
+Oct 07 06:09 : exception: Failed to play on "pulse audio" (pulse): suspended
+Oct 07 06:27 : player: played "ツユ - アサガオの散る頃に MV.mp3"
+Oct 07 06:31 : player: played "ツユ - 忠犬ハチ MV.mp3"
+Oct 07 06:47 : avahi: Client Disconnected, will reconnect shortly
+Oct 07 06:47 : avahi: Could not reconnect: Daemon not running
+Oct 07 12:11 : avahi: Client Disconnected, will reconnect shortly
+Oct 07 12:11 : avahi: Could not reconnect: Daemon not running
+Oct 07 12:11 : player: played "優しい彗星.mp3"
+Oct 07 13:38 : player: played "夜に駆ける.mp3"
+Oct 07 13:42 : player: played "ハルカ.mp3"
+Oct 07 13:47 : player: played "美波「ライラック」MV.mp3"
+Oct 07 13:50 : player: played "ツユ - 忠犬ハチ MV.mp3"
+Oct 07 13:53 : player: played "ツユ - アサガオの散る頃に MV.mp3"
+Oct 07 13:54 : avahi: Client Disconnected, will reconnect shortly
+Oct 07 13:54 : avahi: Could not reconnect: Daemon not running
+Oct 07 13:55 : exception: Failed to open '/home/haikalzzein/.config/mpd/mpdstate': No such file or directory
+Oct 07 13:55 : avahi: Client Disconnected, will reconnect shortly
+Oct 07 13:55 : avahi: Could not reconnect: Daemon not running
+Oct 07 14:01 : player: played "ウォルピスカーター MV 『1％』.mp3"
+Oct 07 14:04 : avahi: Client Disconnected, will reconnect shortly
+Oct 07 14:04 : avahi: Could not reconnect: Daemon not running
+Oct 07 14:07 : exception: Failed to open '/home/haikalzzein/.config/mpd/mpdstate': No such file or directory
+Oct 07 14:13 : player: played "ウォルピスカーター MV 『1％』.mp3"
+Oct 07 14:17 : player: played "群青.mp3"
+Oct 07 14:21 : player: played "優しい彗星.mp3"
+Oct 07 14:24 : player: played "ツユ - アサガオの散る頃に MV.mp3"
+Oct 07 14:28 : player: played "ハルカ.mp3"
+Oct 07 14:32 : player: played "群青.mp3"
+Oct 07 14:37 : player: played "ウォルピスカーター MV 『泥中に咲く』.mp3"
+Oct 07 14:42 : player: played "夜に駆ける.mp3"
+Oct 07 14:44 : player: played "ツユ - デモーニッシュ MV.mp3"
+Oct 07 14:47 : player: played "ツユ - 忠犬ハチ MV.mp3"
+Oct 07 14:51 : player: played "ハルカ.mp3"
+Oct 07 14:55 : player: played "優しい彗星.mp3"
+Oct 07 14:59 : player: played "群青.mp3"
+Oct 07 15:03 : player: played "ウォルピスカーター MV 『1％』.mp3"
+Oct 07 15:08 : player: played "ウォルピスカーター MV 『泥中に咲く』.mp3"
+Oct 07 15:11 : player: played "ツユ - 忠犬ハチ MV.mp3"
+Oct 07 15:15 : player: played "群青.mp3"
+Oct 07 15:19 : player: played "夜に駆ける.mp3"
+Oct 07 15:23 : player: played "ツユ - アサガオの散る頃に MV.mp3"
+Oct 07 15:25 : player: played "ツユ - デモーニッシュ MV.mp3"
+Oct 07 15:28 : player: played "ツユ - 忠犬ハチ MV.mp3"
+Oct 07 15:33 : player: played "群青.mp3"
+Oct 07 15:37 : player: played "ハルカ.mp3"
+Oct 07 15:41 : player: played "ウォルピスカーター MV 『泥中に咲く』.mp3"
+Oct 07 15:47 : player: played "夜に駆ける.mp3"
+Oct 07 15:50 : player: played "ツユ - デモーニッシュ MV.mp3"
+Oct 07 15:58 : player: played "優しい彗星.mp3"
+Oct 07 16:05 : player: played "群青.mp3"
+Oct 07 16:26 : player: played "群青.mp3"
+Oct 07 16:29 : player: played "ツユ - アサガオの散る頃に MV.mp3"
+Oct 07 16:33 : player: played "ハルカ.mp3"
+Oct 07 16:36 : player: played "ツユ - 忠犬ハチ MV.mp3"
+Oct 07 16:41 : player: played "ウォルピスカーター MV 『泥中に咲く』.mp3"
+Oct 07 16:45 : player: played "群青.mp3"
+Oct 07 16:50 : player: played "美波「ライラック」MV.mp3"
+Oct 07 16:55 : player: played "群青.mp3"
+Oct 08 05:11 : player: played "夜に駆ける.mp3"
+Oct 08 05:11 : exception: Failed to play on "pulse audio" (pulse): suspended
+Oct 08 05:12 : avahi: Client Disconnected, will reconnect shortly
+Oct 08 05:12 : avahi: Could not reconnect: Daemon not running
+Oct 08 09:52 : player: played "群青.mp3"
+Oct 08 09:56 : player: played "群青.mp3"
+Oct 08 10:00 : player: played "夜に駆ける.mp3"
+Oct 08 10:04 : player: played "ウォルピスカーター MV 『1％』.mp3"
+Oct 08 10:08 : player: played "ツユ - アサガオの散る頃に MV.mp3"
+Oct 08 10:11 : player: played "ツユ - 忠犬ハチ MV.mp3"
+Oct 08 10:13 : player: played "ツユ - デモーニッシュ MV.mp3"
+Oct 08 10:18 : player: played "ウォルピスカーター MV 『泥中に咲く』.mp3"
+Oct 08 10:22 : player: played "ハルカ.mp3"
+Oct 08 10:26 : player: played "優しい彗星.mp3"
+Oct 08 10:26 : player: played "美波「ライラック」MV.mp3"
+Oct 08 10:26 : exception: Not playing
+Oct 08 10:26 : exception: Not playing
+Oct 08 10:26 : exception: Not playing
+Oct 08 10:31 : player: played "夜に駆ける.mp3"
+Oct 08 10:34 : player: played "優しい彗星.mp3"
+Oct 08 10:38 : player: played "ハルカ.mp3"
+Oct 08 10:42 : player: played "ツユ - アサガオの散る頃に MV.mp3"
+Oct 08 10:46 : player: played "群青.mp3"
+Oct 08 10:51 : player: played "ウォルピスカーター MV 『泥中に咲く』.mp3"
+Oct 08 10:54 : player: played "ツユ - 忠犬ハチ MV.mp3"
+Oct 08 10:57 : player: played "ツユ - デモーニッシュ MV.mp3"
+Oct 08 11:01 : player: played "ウォルピスカーター MV 『1％』.mp3"
+Oct 08 11:08 : player: played "ツユ - デモーニッシュ MV.mp3"
+Oct 08 11:11 : player: played "ツユ - アサガオの散る頃に MV.mp3"
+Oct 08 11:16 : player: played "夜に駆ける.mp3"
+Oct 08 11:20 : player: played "ハルカ.mp3"
+Oct 08 11:24 : player: played "ウォルピスカーター MV 『泥中に咲く』.mp3"
+Oct 08 11:29 : player: played "群青.mp3"
+Oct 08 11:32 : player: played "ウォルピスカーター MV 『1％』.mp3"
+Oct 08 11:37 : player: played "美波「ライラック」MV.mp3"
+Oct 08 11:40 : player: played "ツユ - 忠犬ハチ MV.mp3"
+Oct 08 11:44 : player: played "優しい彗星.mp3"
+Oct 08 12:32 : player: played "ツユ - アサガオの散る頃に MV.mp3"
+Oct 08 12:36 : player: played "ウォルピスカーター MV 『1％』.mp3"
+Oct 08 12:41 : player: played "美波「ライラック」MV.mp3"
+Oct 08 12:45 : player: played "群青.mp3"
+Oct 08 12:50 : player: played "ウォルピスカーター MV 『泥中に咲く』.mp3"
+Oct 08 12:54 : player: played "夜に駆ける.mp3"
+Oct 08 12:57 : player: played "ツユ - 忠犬ハチ MV.mp3"
+Oct 08 13:17 : avahi: Client Disconnected, will reconnect shortly
+Oct 08 13:17 : avahi: Could not reconnect: Daemon not running
+Oct 08 13:26 : exception: Failed to pause "pulse audio" (pulse): failed to connect the stream: Connection terminated
+Oct 08 16:07 : player: played "ウォルピスカーター MV 『1％』.mp3"
+Oct 08 16:11 : player: played "ハルカ.mp3"
+Oct 08 16:15 : player: played "ツユ - アサガオの散る頃に MV.mp3"
+Oct 08 16:18 : player: played "ツユ - 忠犬ハチ MV.mp3"
+Oct 08 16:21 : player: played "優しい彗星.mp3"
+Oct 08 16:25 : player: played "群青.mp3"
+Oct 08 16:28 : player: played "ツユ - デモーニッシュ MV.mp3"
+Oct 08 16:33 : player: played "夜に駆ける.mp3"
+Oct 08 16:38 : player: played "ウォルピスカーター MV 『泥中に咲く』.mp3"
+Oct 08 16:42 : player: played "ハルカ.mp3"
+Oct 08 16:45 : player: played "ツユ - デモーニッシュ MV.mp3"
+Oct 08 16:48 : player: played "ツユ - 忠犬ハチ MV.mp3"
+Oct 08 16:52 : player: played "夜に駆ける.mp3"
+Oct 08 16:56 : player: played "ツユ - アサガオの散る頃に MV.mp3"
+Oct 08 17:01 : player: played "美波「ライラック」MV.mp3"
+Oct 08 17:04 : player: played "ウォルピスカーター MV 『1％』.mp3"
+Oct 08 17:09 : player: played "群青.mp3"
+Oct 08 17:13 : player: played "ウォルピスカーター MV 『泥中に咲く』.mp3"
+Oct 08 17:17 : player: played "優しい彗星.mp3"
+Oct 08 17:22 : player: played "ウォルピスカーター MV 『泥中に咲く』.mp3"
+Oct 08 17:26 : player: played "群青.mp3"
+Oct 08 17:31 : player: played "夜に駆ける.mp3"
+Oct 08 17:36 : player: played "美波「ライラック」MV.mp3"
+Oct 08 17:39 : player: played "ツユ - アサガオの散る頃に MV.mp3"
+Oct 08 17:43 : player: played "ウォルピスカーター MV 『1％』.mp3"
+Oct 08 17:47 : player: played "ハルカ.mp3"
+Oct 08 17:51 : player: played "優しい彗星.mp3"
+Oct 08 17:53 : player: played "ツユ - デモーニッシュ MV.mp3"
+Oct 08 17:56 : player: played "ツユ - 忠犬ハチ MV.mp3"
+Oct 08 18:03 : player: played "ツユ - デモーニッシュ MV.mp3"
+Oct 08 18:08 : player: played "ウォルピスカーター MV 『泥中に咲く』.mp3"
+Oct 08 18:12 : player: played "夜に駆ける.mp3"
+Oct 08 18:16 : player: played "ウォルピスカーター MV 『1％』.mp3"
+Oct 08 18:21 : avahi: Client Disconnected, will reconnect shortly
+Oct 08 18:21 : avahi: Could not reconnect: Daemon not running
+Oct 08 18:21 : player: played "美波「ライラック」MV.mp3"
+Oct 09 03:50 : player: played "ハルカ.mp3"
+Oct 09 03:53 : player: played "ツユ - 忠犬ハチ MV.mp3"
+Oct 09 03:58 : player: played "夜に駆ける.mp3"
+Oct 09 04:05 : player: played "ウォルピスカーター MV 『泥中に咲く』.mp3"
+Oct 09 04:23 : player: played "群青.mp3"
+Oct 09 04:26 : player: played "ツユ - デモーニッシュ MV.mp3"
+Oct 09 04:30 : player: played "ツユ - アサガオの散る頃に MV.mp3"
+Oct 09 04:35 : avahi: Client Disconnected, will reconnect shortly
+Oct 09 04:35 : avahi: Could not reconnect: Daemon not running
+Oct 09 04:36 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Oct 09 04:41 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Oct 09 04:41 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Oct 09 04:43 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Oct 09 04:43 : exception: Failed to enable output "pulse audio" (pulse); pa_context_connect() has failed: Connection refused
+Oct 09 05:09 : avahi: Client Disconnected, will reconnect shortly
+Oct 09 05:09 : avahi: Could not reconnect: Daemon not running
+Oct 10 03:04 : player: played "群青.mp3"
+Oct 10 03:08 : player: played "ウォルピスカーター MV 『1％』.mp3"
+Oct 10 03:12 : player: played "優しい彗星.mp3"
+Oct 10 03:15 : player: played "ツユ - アサガオの散る頃に MV.mp3"
+Oct 10 03:18 : player: played "ツユ - 忠犬ハチ MV.mp3"
+Oct 10 03:23 : player: played "夜に駆ける.mp3"
+Oct 10 03:25 : player: played "ツユ - デモーニッシュ MV.mp3"
+Oct 10 03:30 : player: played "ハルカ.mp3"
+Oct 10 03:34 : player: played "ウォルピスカーター MV 『泥中に咲く』.mp3"
+Oct 10 03:39 : player: played "夜に駆ける.mp3"
+Oct 10 03:43 : player: played "ウォルピスカーター MV 『1％』.mp3"
+Oct 10 03:47 : player: played "優しい彗星.mp3"
+Oct 10 03:52 : player: played "美波「ライラック」MV.mp3"
+Oct 10 03:56 : player: played "ウォルピスカーター MV 『泥中に咲く』.mp3"
+Oct 10 04:01 : player: played "群青.mp3"
+Oct 10 04:04 : player: played "ツユ - アサガオの散る頃に MV.mp3"
+Oct 10 04:07 : player: played "ツユ - デモーニッシュ MV.mp3"
+Oct 10 04:10 : player: played "ツユ - 忠犬ハチ MV.mp3"
+Oct 10 04:14 : player: played "ハルカ.mp3"
+Oct 10 04:18 : player: played "ツユ - アサガオの散る頃に MV.mp3"
+Oct 10 04:22 : player: played "優しい彗星.mp3"
+Oct 10 04:26 : player: played "ウォルピスカーター MV 『1％』.mp3"
+Oct 10 04:30 : player: played "夜に駆ける.mp3"
+Oct 10 04:33 : player: played "ツユ - 忠犬ハチ MV.mp3"
+Oct 10 04:37 : player: played "ハルカ.mp3"
+Oct 10 04:59 : player: played "ツユ - デモーニッシュ MV.mp3"
+Oct 10 05:04 : player: played "ウォルピスカーター MV 『泥中に咲く』.mp3"
+Oct 10 05:08 : player: played "群青.mp3"
+Oct 10 05:12 : player: played "優しい彗星.mp3"
+Oct 10 05:17 : player: played "美波「ライラック」MV.mp3"
+Oct 10 05:20 : player: played "ツユ - 忠犬ハチ MV.mp3"
+Oct 10 05:34 : player: played "夜に駆ける.mp3"
+Oct 10 05:39 : player: played "群青.mp3"
+Oct 10 05:42 : player: played "ウォルピスカーター MV 『1％』.mp3"
+Oct 10 05:45 : player: played "ツユ - デモーニッシュ MV.mp3"
+Oct 10 05:49 : player: played "ハルカ.mp3"
+Oct 10 05:52 : player: played "ツユ - アサガオの散る頃に MV.mp3"
+Oct 10 05:57 : player: played "ウォルピスカーター MV 『泥中に咲く』.mp3"
+Oct 10 06:03 : player: played "夜に駆ける.mp3"
+Oct 10 11:32 : avahi: Client Disconnected, will reconnect shortly
+Oct 10 11:32 : avahi: Could not reconnect: Daemon not running
+Oct 11 02:57 : player: played "ツユ - アサガオの散る頃に MV.mp3"
+Oct 11 03:06 : update: added /ツユ - 終点の先が在るとするならば。 MV-vcw5THyM7Jo.mp3
+Oct 11 03:08 : update: removing ツユ - 終点の先が在るとするならば。 MV-vcw5THyM7Jo.mp3
+Oct 11 03:08 : update: added /ツユ - 終点の先が在るとするならば。.mp3
+Oct 11 03:08 : player: played "ツユ - 終点の先が在るとするならば。 MV-vcw5THyM7Jo.mp3"
+Oct 11 03:09 : update: updating /ウォルピスカーター MV 『泥中に咲く』.mp3
+Oct 11 03:09 : update: updating /夜に駆ける.mp3
+Oct 11 03:09 : update: updating /ウォルピスカーター MV 『1％』.mp3
+Oct 11 03:09 : update: updating /ハルカ.mp3
+Oct 11 03:09 : update: updating /ツユ - 忠犬ハチ MV.mp3
+Oct 11 03:09 : update: updating /優しい彗星.mp3
+Oct 11 03:09 : update: updating /群青.mp3
+Oct 11 03:09 : update: updating /ツユ - アサガオの散る頃に MV.mp3
+Oct 11 03:09 : update: updating /ツユ - 終点の先が在るとするならば。.mp3
+Oct 11 03:09 : update: updating /美波「ライラック」MV.mp3
+Oct 11 03:09 : update: updating /ツユ - デモーニッシュ MV.mp3
+Oct 11 03:13 : player: played "ツユ - 終点の先が在るとするならば。.mp3"
+Oct 11 03:14 : update: removing ウォルピスカーター MV 『1％』.mp3
+Oct 11 03:14 : update: removing ツユ - デモーニッシュ MV.mp3
+Oct 11 03:14 : update: removing ツユ - アサガオの散る頃に MV.mp3
+Oct 11 03:14 : update: removing ウォルピスカーター MV 『泥中に咲く』.mp3
+Oct 11 03:14 : update: removing 美波「ライラック」MV.mp3
+Oct 11 03:14 : update: removing ツユ - 忠犬ハチ MV.mp3
+Oct 11 03:14 : update: added /ウォルピスカーター『泥中に咲く』.mp3
+Oct 11 03:14 : update: added /ウォルピスカーター『1％』.mp3
+Oct 11 03:14 : update: updating /夜に駆ける.mp3
+Oct 11 03:14 : update: added /美波「ライラック」.mp3
+Oct 11 03:14 : update: added /ツユ - デモーニッシュ.mp3
+Oct 11 03:14 : update: updating /ハルカ.mp3
+Oct 11 03:14 : update: updating /優しい彗星.mp3
+Oct 11 03:14 : update: updating /群青.mp3
+Oct 11 03:14 : update: updating /ツユ - 終点の先が在るとするならば。.mp3
+Oct 11 03:14 : update: added /ツユ - アサガオの散る頃に.mp3
+Oct 11 03:14 : update: added /ツユ - 忠犬ハチ.mp3
+Oct 11 03:17 : player: played "ツユ - 終点の先が在るとするならば。.mp3"
+Oct 11 03:17 : exception: No such song
+Oct 11 03:20 : player: played "優しい彗星.mp3"
+Oct 11 03:24 : player: played "ハルカ.mp3"
+Oct 11 03:29 : player: played "優しい彗星.mp3"
+Oct 11 03:33 : player: played "ウォルピスカーター『泥中に咲く』.mp3"
+Oct 11 03:38 : player: played "群青.mp3"
+Oct 11 03:41 : player: played "ツユ - アサガオの散る頃に.mp3"
+Oct 11 03:47 : player: played "ツユ - デモーニッシュ.mp3"
+Oct 11 03:53 : player: played "夜に駆ける.mp3"
+Oct 11 03:56 : player: played "ツユ - 終点の先が在るとするならば。.mp3"
+Oct 11 03:59 : player: played "ツユ - 終点の先が在るとするならば。.mp3"
+Oct 11 04:02 : player: played "ツユ - 忠犬ハチ.mp3"
+Oct 11 04:03 : exception: Not playing
+Oct 11 04:06 : player: played "ツユ - デモーニッシュ.mp3"
+Oct 11 04:10 : player: played "ウォルピスカーター『1％』.mp3"
+Oct 11 04:15 : player: played "美波「ライラック」.mp3"
+Oct 11 04:16 : exception: Failed to play on "pulse audio" (pulse): suspended
+Oct 11 04:16 : avahi: Client Disconnected, will reconnect shortly
+Oct 11 04:16 : avahi: Could not reconnect: Daemon not running
+Oct 11 06:55 : player: played "優しい彗星.mp3"
+Oct 11 06:58 : player: played "ツユ - 忠犬ハチ.mp3"
+Oct 11 07:02 : player: played "夜に駆ける.mp3"
+Oct 11 07:06 : player: played "ツユ - アサガオの散る頃に.mp3"
+Oct 11 07:11 : player: played "美波「ライラック」.mp3"
+Oct 11 07:15 : player: played "ハルカ.mp3"
+Oct 11 07:17 : player: played "ツユ - デモーニッシュ.mp3"
+Oct 11 07:22 : player: played "ウォルピスカーター『泥中に咲く』.mp3"
+Oct 11 07:25 : player: played "ツユ - 終点の先が在るとするならば。.mp3"
+Oct 11 07:29 : player: played "ウォルピスカーター『1％』.mp3"
+Oct 11 07:33 : player: played "群青.mp3"
+Oct 11 11:37 : player: played "ツユ - アサガオの散る頃に.mp3"
+Oct 11 11:42 : player: played "美波「ライラック」.mp3"
+Oct 11 11:45 : player: played "ツユ - アサガオの散る頃に.mp3"
+Oct 11 11:51 : player: played "美波「ライラック」.mp3"
+Oct 11 11:54 : player: played "優しい彗星.mp3"
+Oct 11 11:59 : player: played "ウォルピスカーター『泥中に咲く』.mp3"
+Oct 11 12:02 : player: played "ツユ - 忠犬ハチ.mp3"
+Oct 11 12:07 : player: played "ウォルピスカーター『泥中に咲く』.mp3"
+Oct 11 12:11 : player: played "群青.mp3"
+Oct 11 12:15 : player: played "ウォルピスカーター『1％』.mp3"
+Oct 11 12:19 : player: played "夜に駆ける.mp3"
+Oct 11 12:22 : player: played "ツユ - デモーニッシュ.mp3"
+Oct 11 12:25 : player: played "ツユ - 忠犬ハチ.mp3"
+Oct 11 12:28 : player: played "ツユ - 終点の先が在るとするならば。.mp3"
+Oct 11 12:31 : player: played "ツユ - 終点の先が在るとするならば。.mp3"
+Oct 11 12:34 : player: played "ツユ - 終点の先が在るとするならば。.mp3"
+Oct 11 12:39 : player: played "夜に駆ける.mp3"
+Oct 11 12:43 : player: played "群青.mp3"
+Oct 11 12:45 : player: played "ツユ - デモーニッシュ.mp3"
+Oct 11 12:49 : player: played "優しい彗星.mp3"
+Oct 11 12:52 : player: played "ツユ - 終点の先が在るとするならば。.mp3"
+Oct 11 12:56 : player: played "ツユ - アサガオの散る頃に.mp3"
+Oct 11 13:01 : player: played "美波「ライラック」.mp3"
+Oct 11 13:05 : player: played "夜に駆ける.mp3"
+Oct 11 13:09 : player: played "ウォルピスカーター『1％』.mp3"
+Oct 11 13:14 : player: played "ウォルピスカーター『泥中に咲く』.mp3"
+Oct 11 13:19 : player: played "ウォルピスカーター『泥中に咲く』.mp3"
+Oct 11 13:22 : player: played "ツユ - 忠犬ハチ.mp3"
+Oct 11 13:25 : player: played "ウォルピスカーター『1％』.mp3"
+Oct 11 13:28 : player: played "ツユ - デモーニッシュ.mp3"
+Oct 11 13:31 : player: played "ツユ - デモーニッシュ.mp3"
+Oct 11 13:34 : player: played "ツユ - アサガオの散る頃に.mp3"
+Oct 11 13:38 : player: played "群青.mp3"
+Oct 11 13:41 : player: played "ツユ - 忠犬ハチ.mp3"
+Oct 11 13:45 : player: played "群青.mp3"
+Oct 11 13:48 : player: played "ツユ - 終点の先が在るとするならば。.mp3"
+Oct 11 13:52 : player: played "優しい彗星.mp3"
+Oct 11 13:57 : player: played "群青.mp3"
+Oct 11 14:00 : player: played "ツユ - デモーニッシュ.mp3"
+Oct 11 14:04 : player: played "ウォルピスカーター『1％』.mp3"
+Oct 11 14:07 : player: played "ツユ - 忠犬ハチ.mp3"
+Oct 11 14:09 : player: played "ツユ - デモーニッシュ.mp3"
+Oct 11 14:13 : player: played "優しい彗星.mp3"
+Oct 11 14:17 : player: played "夜に駆ける.mp3"
+Oct 11 14:20 : player: played "ツユ - 終点の先が在るとするならば。.mp3"
+Oct 11 14:24 : player: played "ツユ - 終点の先が在るとするならば。.mp3"
+Oct 11 14:29 : player: played "美波「ライラック」.mp3"
+Oct 11 14:34 : player: played "ウォルピスカーター『泥中に咲く』.mp3"
+Oct 11 14:38 : player: played "群青.mp3"
+Oct 11 14:41 : player: played "ツユ - 忠犬ハチ.mp3"
+Oct 11 14:44 : player: played "ウォルピスカーター『1％』.mp3"
+Oct 11 14:49 : player: played "美波「ライラック」.mp3"
+Oct 11 14:52 : player: played "ツユ - 終点の先が在るとするならば。.mp3"
+Oct 11 14:55 : exception: Failed to play on "pulse audio" (pulse): suspended
+Oct 11 14:55 : avahi: Client Disconnected, will reconnect shortly
+Oct 11 14:55 : avahi: Could not reconnect: Daemon not running
+Oct 11 16:37 : player: played "ツユ - アサガオの散る頃に.mp3"
+Oct 11 16:40 : player: played "ツユ - 忠犬ハチ.mp3"
+Oct 11 16:43 : player: played "ウォルピスカーター『1％』.mp3"
+Oct 11 16:46 : player: played "ツユ - 忠犬ハチ.mp3"
+Oct 11 16:49 : player: played "ツユ - デモーニッシュ.mp3"
+Oct 11 16:53 : player: played "優しい彗星.mp3"
+Oct 11 16:56 : player: played "ツユ - アサガオの散る頃に.mp3"
+Oct 11 17:00 : player: played "群青.mp3"
+Oct 11 17:03 : player: played "ツユ - 終点の先が在るとするならば。.mp3"
+Oct 11 17:07 : player: played "夜に駆ける.mp3"
+Oct 11 17:12 : player: played "美波「ライラック」.mp3"
+Oct 11 17:17 : player: played "群青.mp3"
+Oct 11 17:39 : player: played "夜に駆ける.mp3"
+Oct 11 17:43 : player: played "ウォルピスカーター『泥中に咲く』.mp3"
+Oct 11 17:47 : player: played "ウォルピスカーター『1％』.mp3"
+Oct 11 17:50 : player: played "ツユ - デモーニッシュ.mp3"
+Oct 11 17:55 : player: played "ウォルピスカーター『泥中に咲く』.mp3"
+Oct 11 18:00 : player: played "美波「ライラック」.mp3"
+Oct 11 18:03 : player: played "ツユ - 終点の先が在るとするならば。.mp3"
+Oct 11 20:13 : avahi: Client Disconnected, will reconnect shortly
+Oct 11 20:13 : avahi: Could not reconnect: Daemon not running
+Oct 12 03:36 : avahi: Client Disconnected, will reconnect shortly
+Oct 12 03:36 : avahi: Could not reconnect: Daemon not running
+Oct 12 11:46 : update: added /ツユ - 終点の先が在るとするならば。 MV-vcw5THyM7Jo.mp3
+Oct 12 11:47 : update: added /ツユ - 泥の分際で私だけの大切を奪おうだなんて MV-M7FH1dL51oU.webm
+Oct 12 11:47 : update: added /ツユ - 泥の分際で私だけの大切を奪おうだなんて MV-M7FH1dL51oU.mp3
+Oct 12 11:47 : update: removing ツユ - 泥の分際で私だけの大切を奪おうだなんて MV-M7FH1dL51oU.webm
+Oct 12 11:47 : update: updating /ツユ - 泥の分際で私だけの大切を奪おうだなんて MV-M7FH1dL51oU.mp3
+Oct 12 11:48 : update: added /ツユ - 過去に囚われている MV-lGFEqEFJ410.mp3
+Oct 12 11:48 : update: added /ツユ - 過去に囚われている MV-lGFEqEFJ410.webm
+Oct 12 11:49 : update: removing ツユ - 過去に囚われている MV-lGFEqEFJ410.webm
+Oct 12 11:49 : update: updating /ツユ - 過去に囚われている MV-lGFEqEFJ410.mp3
+Oct 12 11:49 : player: played "夜に駆ける.mp3"
+Oct 12 11:50 : update: added /ツユ - 風薫る空の下 MV-LoK17z6xDwI.mp3
+Oct 12 11:50 : update: added /ツユ - 風薫る空の下 MV-LoK17z6xDwI.webm
+Oct 12 11:50 : update: removing ツユ - 風薫る空の下 MV-LoK17z6xDwI.webm
+Oct 12 11:50 : update: updating /ツユ - 風薫る空の下 MV-LoK17z6xDwI.mp3
+Oct 12 11:53 : player: played "ウォルピスカーター『1％』.mp3"
+Oct 12 11:54 : update: removing ツユ - 泥の分際で私だけの大切を奪おうだなんて MV-M7FH1dL51oU.mp3
+Oct 12 11:54 : update: removing ツユ - 終点の先が在るとするならば。 MV-vcw5THyM7Jo.mp3
+Oct 12 11:54 : update: removing ツユ - 過去に囚われている MV-lGFEqEFJ410.mp3
+Oct 12 11:54 : update: removing ツユ - 風薫る空の下 MV-LoK17z6xDwI.mp3
+Oct 12 11:54 : update: updating /ウォルピスカーター『泥中に咲く』.mp3
+Oct 12 11:54 : update: added /ツユ - 過去に囚われている.mp3
+Oct 12 11:54 : update: updating /ウォルピスカーター『1％』.mp3
+Oct 12 11:54 : update: updating /夜に駆ける.mp3
+Oct 12 11:54 : update: updating /美波「ライラック」.mp3
+Oct 12 11:54 : update: updating /ツユ - デモーニッシュ.mp3
+Oct 12 11:54 : update: updating /ハルカ.mp3
+Oct 12 11:54 : update: added /ツユ - 泥の分際で私だけの大切を奪おうだなんて.mp3
+Oct 12 11:54 : update: updating /優しい彗星.mp3
+Oct 12 11:54 : update: updating /群青.mp3
+Oct 12 11:54 : update: updating /ツユ - 終点の先が在るとするならば。.mp3
+Oct 12 11:54 : update: added /ツユ - 風薫る空の下.mp3
+Oct 12 11:54 : update: updating /ツユ - アサガオの散る頃に.mp3
+Oct 12 11:54 : update: updating /ツユ - 忠犬ハチ.mp3
+Oct 12 11:57 : player: played "ツユ - 泥の分際で私だけの大切を奪おうだなんて.mp3"
+Oct 12 12:01 : player: played "ツユ - 過去に囚われている.mp3"
+Oct 12 12:04 : player: played "ツユ - 風薫る空の下.mp3"
+Oct 12 12:08 : player: played "ツユ - 泥の分際で私だけの大切を奪おうだなんて.mp3"
+Oct 12 12:15 : player: played "ツユ - 終点の先が在るとするならば。.mp3"
+Oct 12 12:18 : player: played "ツユ - デモーニッシュ.mp3"
+Oct 12 12:24 : player: played "ツユ - 泥の分際で私だけの大切を奪おうだなんて.mp3"
+Oct 12 12:28 : player: played "ツユ - 過去に囚われている.mp3"
+Oct 12 12:36 : player: played "ツユ - 風薫る空の下.mp3"
+Oct 12 12:39 : player: played "ツユ - 泥の分際で私だけの大切を奪おうだなんて.mp3"
+Oct 12 12:48 : player: played "ツユ - 過去に囚われている.mp3"
+Oct 12 12:52 : player: played "ツユ - 泥の分際で私だけの大切を奪おうだなんて.mp3"
+Oct 12 13:07 : player: played "ツユ - 過去に囚われている.mp3"
+Oct 12 13:11 : player: played "ツユ - 泥の分際で私だけの大切を奪おうだなんて.mp3"
+Oct 12 13:15 : player: played "ツユ - 過去に囚われている.mp3"
+Oct 12 13:22 : player: played "ツユ - 泥の分際で私だけの大切を奪おうだなんて.mp3"
+Oct 12 13:26 : player: played "ツユ - 過去に囚われている.mp3"
+Oct 12 13:30 : player: played "ツユ - 泥の分際で私だけの大切を奪おうだなんて.mp3"
+Oct 12 13:34 : player: played "ツユ - 過去に囚われている.mp3"
+Oct 12 13:37 : player: played "ツユ - 泥の分際で私だけの大切を奪おうだなんて.mp3"
+Oct 12 13:41 : player: played "ツユ - 過去に囚われている.mp3"
+Oct 12 13:44 : player: played "ツユ - 泥の分際で私だけの大切を奪おうだなんて.mp3"
+Oct 12 13:57 : player: played "ツユ - 過去に囚われている.mp3"
+Oct 12 14:01 : player: played "ツユ - 風薫る空の下.mp3"
+Oct 12 14:04 : player: played "ツユ - 泥の分際で私だけの大切を奪おうだなんて.mp3"
+Oct 12 14:08 : player: played "ツユ - 過去に囚われている.mp3"
+Oct 12 14:11 : player: played "ツユ - 風薫る空の下.mp3"
+Oct 12 14:15 : player: played "ツユ - 過去に囚われている.mp3"
+Oct 12 14:25 : player: played "ツユ - 泥の分際で私だけの大切を奪おうだなんて.mp3"
+Oct 12 14:29 : player: played "ツユ - 過去に囚われている.mp3"
+Oct 12 14:32 : player: played "ツユ - 風薫る空の下.mp3"
+Oct 12 14:35 : player: played "ツユ - 終点の先が在るとするならば。.mp3"
+Oct 12 14:39 : player: played "ツユ - 泥の分際で私だけの大切を奪おうだなんて.mp3"
+Oct 12 14:43 : player: played "ツユ - 過去に囚われている.mp3"
+Oct 12 14:46 : player: played "ツユ - 風薫る空の下.mp3"
+Oct 12 14:50 : player: played "ツユ - 泥の分際で私だけの大切を奪おうだなんて.mp3"
+Oct 12 14:54 : player: played "ツユ - 過去に囚われている.mp3"
+Oct 12 14:57 : player: played "ツユ - 風薫る空の下.mp3"
+Oct 12 15:00 : player: played "ツユ - 泥の分際で私だけの大切を奪おうだなんて.mp3"
+Oct 12 15:04 : player: played "ツユ - 過去に囚われている.mp3"
+Oct 12 15:14 : player: played "ツユ - 風薫る空の下.mp3"
+Oct 12 15:18 : player: played "ツユ - 過去に囚われている.mp3"
+Oct 12 15:19 : avahi: Client Disconnected, will reconnect shortly
+Oct 12 15:19 : avahi: Could not reconnect: Daemon not running
+Oct 12 19:35 : avahi: Client Disconnected, will reconnect shortly
+Oct 12 19:35 : avahi: Could not reconnect: Daemon not running
+Oct 12 21:14 : player: played "ツユ - 泥の分際で私だけの大切を奪おうだなんて.mp3"
+Oct 12 21:18 : player: played "ツユ - 過去に囚われている.mp3"
+Oct 12 21:22 : player: played "ツユ - 過去に囚われている.mp3"
+Oct 12 21:25 : player: played "ツユ - 泥の分際で私だけの大切を奪おうだなんて.mp3"
+Oct 12 21:30 : player: played "ツユ - 泥の分際で私だけの大切を奪おうだなんて.mp3"
+Oct 12 21:34 : player: played "ツユ - 過去に囚われている.mp3"
+Oct 12 21:38 : player: played "ツユ - 泥の分際で私だけの大切を奪おうだなんて.mp3"
+Oct 12 21:42 : player: played "ツユ - 過去に囚われている.mp3"
+Oct 12 21:45 : player: played "ツユ - 風薫る空の下.mp3"
+Oct 12 21:50 : player: played "ウォルピスカーター『泥中に咲く』.mp3"
+Oct 12 21:54 : player: played "ウォルピスカーター『1％』.mp3"
+Oct 12 21:57 : player: played "ツユ - 泥の分際で私だけの大切を奪おうだなんて.mp3"
+Oct 12 22:01 : player: played "ツユ - 過去に囚われている.mp3"
+Oct 12 22:07 : player: played "ツユ - 泥の分際で私だけの大切を奪おうだなんて.mp3"
+Oct 12 22:11 : player: played "ツユ - 過去に囚われている.mp3"
+Oct 12 22:15 : player: played "ツユ - 風薫る空の下.mp3"
+Oct 12 22:18 : player: played "ツユ - 泥の分際で私だけの大切を奪おうだなんて.mp3"
+Oct 12 22:25 : player: played "ツユ - 泥の分際で私だけの大切を奪おうだなんて.mp3"
+Oct 12 22:30 : player: played "ツユ - 泥の分際で私だけの大切を奪おうだなんて.mp3"
+Oct 12 22:34 : player: played "ツユ - 過去に囚われている.mp3"
+Oct 12 22:38 : player: played "ツユ - 過去に囚われている.mp3"
+Oct 12 22:44 : player: played "ツユ - 過去に囚われている.mp3"
+Oct 12 22:48 : player: played "ツユ - 風薫る空の下.mp3"
+Oct 13 01:43 : avahi: Client Disconnected, will reconnect shortly
+Oct 13 01:43 : avahi: Could not reconnect: Daemon not running
+Oct 13 02:11 : avahi: Client Disconnected, will reconnect shortly
+Oct 13 02:11 : avahi: Could not reconnect: Daemon not running
+Oct 13 02:11 : player: played "ツユ - 過去に囚われている.mp3"
+Oct 13 21:02 : player: played "ツユ - 過去に囚われている.mp3"
+Oct 13 21:05 : player: played "ツユ - 泥の分際で私だけの大切を奪おうだなんて.mp3"
+Oct 13 21:09 : player: played "ツユ - 過去に囚われている.mp3"
+Oct 13 21:13 : player: played "ツユ - 風薫る空の下.mp3"
+Oct 13 21:17 : player: played "ハルカ.mp3"
+Oct 14 20:19 : avahi: Client Disconnected, will reconnect shortly
+Oct 14 20:19 : avahi: Could not reconnect: Daemon not running
+Oct 15 01:02 : avahi: Client Disconnected, will reconnect shortly
+Oct 15 01:02 : avahi: Could not reconnect: Daemon not running
+Oct 15 10:17 : avahi: Client Disconnected, will reconnect shortly
+Oct 15 10:17 : avahi: Could not reconnect: Daemon not running
+Oct 15 14:44 : avahi: Client Disconnected, will reconnect shortly
+Oct 15 14:44 : avahi: Could not reconnect: Daemon not running
+Oct 17 19:51 : exception: Failed to play on "pulse audio" (pulse): suspended
+Oct 17 19:55 : player: played "夜に駆ける.mp3"
+Oct 17 19:59 : player: played "ツユ - 終点の先が在るとするならば。.mp3"
+Oct 17 20:04 : exception: Failed to play on "pulse audio" (pulse): suspended
+Oct 17 20:08 : player: played "群青.mp3"
+Oct 17 20:11 : player: played "ツユ - 忠犬ハチ.mp3"
+Oct 17 20:13 : player: played "ツユ - デモーニッシュ.mp3"
+Oct 17 20:17 : player: played "ツユ - アサガオの散る頃に.mp3"
+Oct 17 20:22 : player: played "ウォルピスカーター『泥中に咲く』.mp3"
+Oct 17 20:27 : player: played "ウォルピスカーター『泥中に咲く』.mp3"
+Oct 17 20:30 : player: played "ウォルピスカーター『1％』.mp3"
+Oct 17 20:31 : avahi: Client Disconnected, will reconnect shortly
+Oct 17 20:31 : avahi: Could not reconnect: Daemon not running
+Oct 17 20:31 : player: played "優しい彗星.mp3"
+Oct 18 08:04 : player: played "群青.mp3"
+Oct 18 08:11 : player: played "ウォルピスカーター『泥中に咲く』.mp3"
+Oct 18 08:14 : player: played "優しい彗星.mp3"
+Oct 18 08:19 : player: played "夜に駆ける.mp3"
+Oct 18 08:23 : player: played "群青.mp3"
+Oct 18 08:26 : player: played "ツユ - 泥の分際で私だけの大切を奪おうだなんて.mp3"
+Oct 18 08:30 : player: played "ツユ - 過去に囚われている.mp3"
+Oct 18 08:34 : player: played "ツユ - 風薫る空の下.mp3"
+Oct 18 08:38 : player: played "ハルカ.mp3"
+Oct 18 08:42 : player: played "夜に駆ける.mp3"
+Oct 18 08:47 : player: played "群青.mp3"
+Oct 18 08:53 : player: played "ウォルピスカーター『泥中に咲く』.mp3"
+Oct 18 09:23 : player: played "優しい彗星.mp3"
+Oct 18 09:27 : player: played "夜に駆ける.mp3"
+Oct 18 09:31 : player: played "群青.mp3"
+Oct 18 09:36 : player: played "美波「ライラック」.mp3"
+Oct 18 09:40 : player: played "ツユ - 泥の分際で私だけの大切を奪おうだなんて.mp3"
+Oct 18 09:44 : player: played "ツユ - 過去に囚われている.mp3"
+Oct 18 09:47 : player: played "ツユ - 風薫る空の下.mp3"
+Oct 18 09:51 : player: played "ハルカ.mp3"
+Oct 18 10:12 : player: played "ハルカ.mp3"
+Oct 18 17:18 : player: played "夜に駆ける.mp3"
+Oct 18 17:21 : player: played "ツユ - 終点の先が在るとするならば。.mp3"
+Oct 18 17:25 : player: played "群青.mp3"
+Oct 18 17:28 : player: played "ツユ - 忠犬ハチ.mp3"
+Oct 18 18:00 : avahi: Client Disconnected, will reconnect shortly
+Oct 18 18:00 : avahi: Could not reconnect: Daemon not running
+Oct 18 18:29 : avahi: Client Disconnected, will reconnect shortly
+Oct 18 18:29 : avahi: Could not reconnect: Daemon not running
+Oct 20 12:38 : avahi: Client Disconnected, will reconnect shortly
+Oct 20 12:38 : avahi: Could not reconnect: Daemon not running
+Oct 20 20:46 : avahi: Client Disconnected, will reconnect shortly
+Oct 20 20:46 : avahi: Could not reconnect: Daemon not running
+Oct 22 08:26 : avahi: Client Disconnected, will reconnect shortly
+Oct 22 08:26 : avahi: Could not reconnect: Daemon not running
+Oct 22 10:57 : player: played "ウォルピスカーター『泥中に咲く』.mp3"
+Oct 22 10:59 : player: played "ハルカ.mp3"
+Oct 22 10:59 : update: added /YOASOBI「アンコール」Official Music Video-vcGbefQBvJ4.webm
+Oct 22 10:59 : update: added /YOASOBI「アンコール」Official Music Video-vcGbefQBvJ4.mp3
+Oct 22 11:00 : update: removing YOASOBI「アンコール」Official Music Video-vcGbefQBvJ4.webm
+Oct 22 11:00 : update: updating /YOASOBI「アンコール」Official Music Video-vcGbefQBvJ4.mp3
+Oct 22 11:00 : player: played "YOASOBI「アンコール」Official Music Video-vcGbefQBvJ4.mp3"
+Oct 22 11:05 : player: played "ハルカ.mp3"
+Oct 22 11:08 : player: played "優しい彗星.mp3"
+Oct 22 11:13 : player: played "夜に駆ける.mp3"
+Oct 22 11:17 : player: played "群青.mp3"
+Oct 22 11:22 : player: played "美波「ライラック」.mp3"
+Oct 22 11:25 : player: played "ツユ - 終点の先が在るとするならば。.mp3"
+Oct 22 11:28 : player: played "ツユ - 忠犬ハチ.mp3"
+Oct 22 11:30 : player: played "ツユ - デモーニッシュ.mp3"
+Oct 22 11:37 : player: played "ツユ - 泥の分際で私だけの大切を奪おうだなんて.mp3"
+Oct 22 11:41 : player: played "ツユ - 過去に囚われている.mp3"
+Oct 22 11:44 : player: played "ツユ - 風薫る空の下.mp3"
+Oct 22 13:41 : player: played "YOASOBI「アンコール」Official Music Video-vcGbefQBvJ4.mp3"
+Oct 22 13:45 : player: played "ハルカ.mp3"
+Oct 22 13:52 : player: played "ツユ - デモーニッシュ.mp3"
+Oct 22 13:57 : player: played "ウォルピスカーター『泥中に咲く』.mp3"
+Oct 22 14:00 : player: played "ウォルピスカーター『1％』.mp3"
+Oct 22 14:03 : player: played "ツユ - 泥の分際で私だけの大切を奪おうだなんて.mp3"
+Oct 22 14:07 : player: played "ツユ - 過去に囚われている.mp3"
+Oct 22 14:11 : player: played "ツユ - 風薫る空の下.mp3"
+Oct 22 14:21 : player: played "YOASOBI「アンコール」Official Music Video-vcGbefQBvJ4.mp3"
+Oct 22 14:26 : player: played "YOASOBI「アンコール」Official Music Video-vcGbefQBvJ4.mp3"
+Oct 22 14:30 : player: played "ハルカ.mp3"
+Oct 22 14:34 : player: played "優しい彗星.mp3"
+Oct 22 14:39 : player: played "ウォルピスカーター『泥中に咲く』.mp3"
+Oct 22 14:43 : player: played "ウォルピスカーター『1％』.mp3"
+Oct 22 15:59 : player: played "ツユ - 泥の分際で私だけの大切を奪おうだなんて.mp3"
+Oct 22 16:03 : player: played "ツユ - 過去に囚われている.mp3"
+Oct 22 16:06 : player: played "ツユ - 風薫る空の下.mp3"
+Oct 22 16:11 : player: played "YOASOBI「アンコール」Official Music Video-vcGbefQBvJ4.mp3"
+Oct 22 16:15 : player: played "ハルカ.mp3"
+Oct 22 16:19 : player: played "優しい彗星.mp3"
+Oct 22 16:23 : player: played "夜に駆ける.mp3"
+Oct 22 16:27 : player: played "群青.mp3"
+Oct 22 18:25 : avahi: Client Disconnected, will reconnect shortly
+Oct 22 18:25 : avahi: Could not reconnect: Daemon not running
+Oct 22 20:02 : avahi: Client Disconnected, will reconnect shortly
+Oct 22 20:02 : avahi: Could not reconnect: Daemon not running
+Oct 22 20:02 : player: played "美波「ライラック」.mp3"
+Oct 23 12:09 : avahi: Client Disconnected, will reconnect shortly
+Oct 23 12:09 : avahi: Could not reconnect: Daemon not running
+Nov 01 12:38 : player: played "美波「ライラック」.mp3"
+Nov 01 12:43 : player: played "美波「ライラック」.mp3"
+Nov 01 12:43 : player: played "美波「ライラック」.mp3"
+Nov 01 12:50 : player: played "美波「ライラック」.mp3"
+Nov 01 12:50 : player: played "美波「ライラック」.mp3"
+Nov 01 12:52 : player: played "美波「ライラック」.mp3"
+Nov 01 12:53 : player: played "美波「ライラック」.mp3"
+Nov 01 12:53 : player: played "美波「ライラック」.mp3"
+Nov 01 13:40 : update: removing YOASOBI/夜に駆ける/00 夜に駆ける.mp3
+Nov 01 13:40 : update: removing YOASOBI「アンコール」Official Music Video-vcGbefQBvJ4.mp3
+Nov 01 13:40 : update: updating /群青.mp3
+Nov 01 13:40 : update: added /ツユ - あの世行きのバスに乗ってさらば。.mp3
+Nov 01 13:40 : update: updating /ウォルピスカーター『1％』.mp3
+Nov 01 13:40 : update: added /ツユ - 太陽になれるかな.mp3
+Nov 01 13:40 : update: updating /夜に駆ける.mp3
+Nov 01 13:40 : update: added /神山羊 - YELLOW【Music Video】_ Yoh Kamiyama - YELLOW-1_lap6dzSUc.mp3
+Nov 01 13:40 : update: added /[Elysia] Honkai Impact 3rd 5.1 Trailer PV BGM OST EXTENDED-JaoAPMBexS0.flac
+Nov 01 13:40 : update: updating /ツユ - 泥の分際で私だけの大切を奪おうだなんて.mp3
+Nov 01 13:40 : update: updating /ツユ - アサガオの散る頃に.mp3
+Nov 01 13:40 : update: added /たぶん.mp3
+Nov 01 13:40 : update: added /羽生まゐご「オノマトペ」feat.りりあ。.mp3
+Nov 01 13:40 : update: updating /ツユ - デモーニッシュ.mp3
+Nov 01 13:40 : update: added /世界で一番じゃない貴方を愛したらInst.wav
+Nov 01 13:40 : update: added /オノマトペInst.wav
+Nov 01 13:40 : update: added /「アンコール」.mp3
+Nov 01 13:40 : update: updating /ハルカ.mp3
+Nov 01 13:40 : update: updating /ツユ - 風薫る空の下.mp3
+Nov 01 13:40 : update: updating /優しい彗星.mp3
+Nov 01 13:40 : update: updating /ツユ - 過去に囚われている.mp3
+Nov 01 13:40 : update: updating /ウォルピスカーター『泥中に咲く』.mp3
+Nov 01 13:40 : update: added /魔性のカマトト あんず編「痣」.mp3
+Nov 01 13:40 : update: added /ハルカ.flac
+Nov 01 13:40 : update: updating /ツユ - 終点の先が在るとするならば。.mp3
+Nov 01 13:40 : update: added /神山羊 - YELLOW.flac
+Nov 01 13:40 : update: updating /ツユ - 忠犬ハチ.mp3
+Nov 01 13:40 : update: updating /美波「ライラック」.mp3
+Nov 01 13:44 : player: played "神山羊 - YELLOW.flac"
+Nov 01 13:47 : player: played "神山羊 - YELLOW【Music Video】_ Yoh Kamiyama - YELLOW-1_lap6dzSUc.mp3"
+Nov 01 13:47 : audiofile: file missing data -- read 675840 frames, should be 7989041
+Nov 01 13:54 : player: played "魔性のカマトト あんず編「痣」.mp3"
+Nov 01 13:57 : player: played "ツユ - あの世行きのバスに乗ってさらば。.mp3"
+Nov 01 14:01 : player: played "ツユ - 太陽になれるかな.mp3"
+Nov 01 14:06 : player: played "「アンコール」.mp3"
+Nov 01 14:10 : player: played "たぶん.mp3"
+Nov 01 14:14 : player: played "ハルカ.mp3"
+Nov 01 14:17 : player: played "優しい彗星.mp3"
+Nov 01 14:21 : player: played "神山羊 - YELLOW.flac"
+Nov 01 14:24 : player: played "神山羊 - YELLOW【Music Video】_ Yoh Kamiyama - YELLOW-1_lap6dzSUc.mp3"
+Nov 01 18:35 : player: played "[Elysia] Honkai Impact 3rd 5.1 Trailer PV BGM OST EXTENDED-JaoAPMBexS0.flac"
+Nov 01 18:47 : player: played "神山羊 - YELLOW.flac"
+Nov 01 18:50 : player: played "神山羊 - YELLOW【Music Video】_ Yoh Kamiyama - YELLOW-1_lap6dzSUc.mp3"
+Nov 01 19:01 : player: played "魔性のカマトト あんず編「痣」.mp3"
+Nov 01 19:04 : player: played "ツユ - あの世行きのバスに乗ってさらば。.mp3"
+Nov 01 19:08 : player: played "ツユ - 太陽になれるかな.mp3"
+Nov 01 19:13 : player: played "「アンコール」.mp3"
+Nov 01 19:16 : update: removing ハルカ.flac
+Nov 01 19:16 : update: removing 神山羊 - YELLOW.flac
+Nov 01 19:17 : player: played "ハルカ.mp3"
+Nov 01 19:21 : player: played "優しい彗星.mp3"
+Nov 01 19:27 : player: played "群青.mp3"
+Nov 01 19:31 : player: played "ツユ - 終点の先が在るとするならば。.mp3"
+Nov 01 19:34 : player: played "ツユ - 忠犬ハチ.mp3"
+Nov 01 19:36 : player: played "ツユ - デモーニッシュ.mp3"
+Nov 01 19:47 : player: played "ツユ - アサガオの散る頃に.mp3"
+Nov 01 19:48 : player: played "ウォルピスカーター『泥中に咲く』.mp3"
+Nov 01 19:53 : player: played "ウォルピスカーター『泥中に咲く』.mp3"
+Nov 01 19:57 : player: played "ウォルピスカーター『1％』.mp3"
+Nov 01 19:59 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Nov 01 19:59 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Nov 01 20:00 : player: played "ツユ - 泥の分際で私だけの大切を奪おうだなんて.mp3"
+Nov 01 20:03 : player: played "ツユ - 過去に囚われている.mp3"

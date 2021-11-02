@@ -1,0 +1,34 @@
+#load xresources for st
+# xrdb $XDG_CONFIG_HOME/x11/xresources
+
+# set keyboard repeat rate
+xset r rate 250 30
+
+# set backlight
+xbacklight -set 10
+
+# change escape button to capslock
+# setxkbmap -option caps:escape
+
+# Set wallpaper
+feh --no-fehbg --bg-scale ~/Wallpapers/anim-5.jpg
+
+# MPD daemon start (if no other user instance exists)
+mpd &
+
+# Dunst daemon start
+# dunst &
+
+# Start compton
+# xcompmgr -f -D 4 &
+
+# hide cursor when idle
+unclutter -idle 10 &
+
+# Start syncthing
+syncthing &
+
+# Start slstatus
+# slstatus &
+
+exec dwm

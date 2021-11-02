@@ -1,0 +1,7 @@
+#!/bin/sh
+
+pth="/home/haikalzzein/Documents/Screenshot/"
+
+nmpth="$(ls "$pth" | dmenu -i -p "File name")" || exit 1
+
+shotgun "$pth""$nmpth".png && exit 0

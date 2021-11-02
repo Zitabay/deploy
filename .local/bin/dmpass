@@ -1,0 +1,4 @@
+#!/bin/sh
+
+sleep 0.1
+dmenu -fn monospace-10 -nb "#282828" -nf "#f4e0e4" -sb "#a73b4f" -sf "#f4e0e4" -P -p "$1"

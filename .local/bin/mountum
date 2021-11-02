@@ -1,0 +1,77 @@
+#!/bin/sh
+
+mountp() { \
+	sleep 0.1
+	[ -z "$choice" ] && exit 1
+	point="$(find $1 2>/dev/null | dmenu -i -fn monospace-10 -nb "#282828" -nf "#f4e0e4" -sb "#a73b4f" -sf "#f4e0e4" -p "Mount to")" || exit 1
+	test -z "$point" && exit 1
+}
+
+mountd() { \
+	sleep 0.1
+	choice="$(echo "$ddrives" | dmenu -i -fn monospace-10 -nb "#282828" -nf "#f4e0e4" -sb "#a73b4f" -sf "#f4e0e4" -p "Which drive?")" || exit 1
+	choice="$(echo "$choice" | awk '{print $1}')"
+	mountedp="$(lsblk -nrpo "name,type,mountpoint" | awk '$3!~/\/boot|\/home$|SWAP/&&length($3)>1{printf "-not ( -path *%s -prune ) ",$3}')"
+	mountp "/mnt /home -maxdepth 5 -type d $mountedp"
+	sudo -A mount "$choice" "$point" && exit 1
+}
+
+umountd() { \
+	sleep 0.1
+	choice="$(echo "$mddrives" | dmenu -i -fn monospace-10 -nb "#282828" -nf "#f4e0e4" -sb "#a73b4f" -sf "#f4e0e4" -p "Which drive?")" || exit 1
+	choice="$(echo "$choice" | awk '{printf "%s",$1}')"
+	sudo -A umount "$choice" && exit 0
+}
+
+mounta() { \
+	sleep 0.1
+	choice="$(echo "$adrives" | dmenu -i -fn monospace-10 -nb "#282828" -nf "#f4e0e4" -sb "#a73b4f" -sf "#f4e0e4" -p "Which device?")" || exit 1
+	choice="$(echo "$choice" | cut -d : -f 1)"
+	mountp "$HOME -maxdepth 3 -type d"
+	simple-mtpfs --device "$choice" "$point"
+}
+
+umounta() { \
+	if [ -z "$madrives" ]; then
+		exit 1
+	else
+		fusermount -uz $HOME/phone && exit 0
+	fi
+}
+
+askmount() { \
+	choice="$(printf "Drive\\nDevice" | dmenu -i -fn monospace-10 -nb "#282828" -nf "#f4e0e4" -sb "#a73b4f" -sf "#f4e0e4" -p "Mount drive or device?")" || exit 1
+	case $choice in
+		Drive) askmountd ;;
+		Device) askmounta ;;
+	esac
+}
+
+askmountd() { \
+	sleep 0.1
+	choice="$(printf "Mount\\nUnmount" | dmenu -i -fn monospace-10 -nb "#282828" -nf "#f4e0e4" -sb "#a73b4f" -sf "#f4e0e4" -p "Mount or unmount drive?")" || exit 1
+	case $choice in
+		Mount) mountd ;;
+		Unmount) umountd ;;
+	esac
+}
+
+askmounta() { \
+	sleep 0.1
+	choice="$(printf "Mount\\nUnmount" | dmenu -i -fn monospace-10 -nb "#282828" -nf "#f4e0e4" -sb "#a73b4f" -sf "#f4e0e4" -p "Mount or unmount device?")" || exit 1
+	case $choice in
+		Mount) mounta ;;
+		Unmount) umounta ;;
+	esac
+}
+
+ddrives="$(lsblk -rpo "name,type,size,mountpoint" | grep 'part\|rom' | awk '$4==""{printf "%s (%s)\n",$1,$3}')"
+adrives=$(simple-mtpfs -l 2>/dev/null)
+mddrives="$(lsblk -nrpo "name,type,mountpoint" | awk '$3!~/\/home$|SWAP|\/boot/&&length($3)>1{printf "%s (%s)\n",$1,$3}')"
+madrives=$(ls $HOME/phone | cat)
+
+if [ -z "$adrives" ]; then
+	askmountd
+else
+	askmount
+fi
